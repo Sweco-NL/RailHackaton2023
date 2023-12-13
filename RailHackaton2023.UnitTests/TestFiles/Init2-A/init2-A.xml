@@ -1,0 +1,1546 @@
+<?xml version="1.0"?>
+<ImSpoor xmlns:gml="http://www.opengis.net/gml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" imxVersion="5.0.0" xmlns="http://www.prorail.nl/IMSpoor">
+  <Project puic="b87754e6-238d-4600-9e65-458eb7c214dc">
+    <InitialSituation referenceDate="2023-12-08T17:38:46.3675151+01:00">
+      <RailInfrastructure>
+        <RailTopology>
+          <MicroNodes>
+            <MicroNode junctionRef="a33d772f-5b3a-46c2-9865-84eac9dc1486">
+              <Jumpers>
+                <Jumper fromIndex="0" toIndex="2" isTwoWay="Unknown" isTraversible="Unknown">
+                  <PassageRefs>a7988ec7-63ba-4bf0-b7c8-746e012f4a18 a78a0ac3-a075-49a8-a461-25a5d591ed2a</PassageRefs>
+                </Jumper>
+                <Jumper fromIndex="0" toIndex="1" isTwoWay="Unknown" isTraversible="Unknown">
+                  <PassageRefs>a7988ec7-63ba-4bf0-b7c8-746e012f4a18 3a0b5c59-0bf3-4d8c-859b-66e3cd5cc661</PassageRefs>
+                </Jumper>
+              </Jumpers>
+            </MicroNode>
+            <MicroNode junctionRef="6ba5e21e-4bb2-457d-b347-2c145a4bc59b">
+              <Jumpers>
+                <Jumper fromIndex="0" toIndex="2" isTwoWay="Unknown" isTraversible="Unknown">
+                  <PassageRefs>42944c82-3669-4bc7-b85b-e10c06b0f54f b16d5caa-0e4b-4c1d-9036-93167fdde2ce</PassageRefs>
+                </Jumper>
+                <Jumper fromIndex="0" toIndex="1" isTwoWay="Unknown" isTraversible="Unknown">
+                  <PassageRefs>42944c82-3669-4bc7-b85b-e10c06b0f54f c2a88de4-5fea-46b7-b892-ad0b24311840</PassageRefs>
+                </Jumper>
+              </Jumpers>
+            </MicroNode>
+            <MicroNode junctionRef="72da39b0-39e2-4f66-9a00-ab9471c74c60">
+              <Jumpers>
+                <Jumper fromIndex="0" toIndex="2" isTwoWay="Unknown" isTraversible="Unknown">
+                  <PassageRefs>d54a0bbc-e68a-48b0-81cf-1a2e59e651aa 1bd900fd-1eb0-44f0-95ec-7fe04ac912c1</PassageRefs>
+                </Jumper>
+                <Jumper fromIndex="0" toIndex="1" isTwoWay="Unknown" isTraversible="Unknown">
+                  <PassageRefs>d54a0bbc-e68a-48b0-81cf-1a2e59e651aa 35884ad3-6eec-4355-a426-a5f76d52b2a1</PassageRefs>
+                </Jumper>
+              </Jumpers>
+            </MicroNode>
+            <MicroNode junctionRef="b7a04a5b-8a2a-428e-a8ab-86423a96d6fa">
+              <Jumpers>
+                <Jumper fromIndex="0" toIndex="2" isTwoWay="Unknown" isTraversible="Unknown">
+                  <PassageRefs>9c52d87c-7cba-489f-a026-2b5fa04b558d b2c1f078-e8a5-4198-a916-76d424517521</PassageRefs>
+                </Jumper>
+                <Jumper fromIndex="0" toIndex="1" isTwoWay="Unknown" isTraversible="Unknown">
+                  <PassageRefs>9c52d87c-7cba-489f-a026-2b5fa04b558d 910ff357-8274-4ef9-95d0-c1ca44e27617</PassageRefs>
+                </Jumper>
+              </Jumpers>
+            </MicroNode>
+            <MicroNode junctionRef="f292b4b4-52c5-4989-9f7f-b9b36654ac35">
+              <Jumpers>
+                <Jumper fromIndex="0" toIndex="2" isTwoWay="Unknown" isTraversible="Unknown">
+                  <PassageRefs>904caa7f-d25c-439b-8fec-02531980529a e174ca04-85dc-4d00-acd3-e5a055181b2b</PassageRefs>
+                </Jumper>
+                <Jumper fromIndex="0" toIndex="1" isTwoWay="Unknown" isTraversible="Unknown">
+                  <PassageRefs>904caa7f-d25c-439b-8fec-02531980529a a9d5288c-08f6-4d63-aeec-1f73e946e272</PassageRefs>
+                </Jumper>
+              </Jumpers>
+            </MicroNode>
+            <MicroNode junctionRef="34ece0aa-e0e0-4048-92ae-7835b39bec49">
+              <Jumpers>
+                <Jumper fromIndex="0" toIndex="2" isTwoWay="Unknown" isTraversible="Unknown">
+                  <PassageRefs>e9acd229-83cd-48d8-9e75-329979f4d8f5 707201f6-852c-4f99-83a0-0b86346bccdd</PassageRefs>
+                </Jumper>
+                <Jumper fromIndex="0" toIndex="1" isTwoWay="Unknown" isTraversible="Unknown">
+                  <PassageRefs>e9acd229-83cd-48d8-9e75-329979f4d8f5 46eb45ba-da94-43de-b484-4da31967be3c</PassageRefs>
+                </Jumper>
+              </Jumpers>
+            </MicroNode>
+            <MicroNode junctionRef="3efa22ef-705e-4c09-add0-54932958a486">
+              <Jumpers />
+            </MicroNode>
+            <MicroNode junctionRef="a7fcd88b-79bd-4343-a04c-0d1006026b08">
+              <Jumpers />
+            </MicroNode>
+            <MicroNode junctionRef="0ee03782-d084-40fb-8858-b3dd3ab52eb9">
+              <Jumpers />
+            </MicroNode>
+            <MicroNode junctionRef="5d066f5f-f819-4d83-90ee-32354e60e819">
+              <Jumpers />
+            </MicroNode>
+          </MicroNodes>
+          <MicroLinks>
+            <MicroLink implementationObjectRef="f0f9f0b6-0aff-4db8-a351-60b931ff2d12">
+              <FromMicroNode nodeRef="f292b4b4-52c5-4989-9f7f-b9b36654ac35" portIndex="0" />
+              <ToMicroNode nodeRef="3efa22ef-705e-4c09-add0-54932958a486" portIndex="0" />
+            </MicroLink>
+            <MicroLink implementationObjectRef="c4606dbc-8a44-4c0e-b35d-dd20241de616">
+              <FromMicroNode nodeRef="f292b4b4-52c5-4989-9f7f-b9b36654ac35" portIndex="2" />
+              <ToMicroNode nodeRef="b7a04a5b-8a2a-428e-a8ab-86423a96d6fa" portIndex="1" />
+            </MicroLink>
+            <MicroLink implementationObjectRef="2aa889d0-27ac-46ee-a27e-451a25246a40">
+              <FromMicroNode nodeRef="b7a04a5b-8a2a-428e-a8ab-86423a96d6fa" portIndex="0" />
+              <ToMicroNode nodeRef="a33d772f-5b3a-46c2-9865-84eac9dc1486" portIndex="0" />
+            </MicroLink>
+            <MicroLink implementationObjectRef="a3cdae04-db03-4575-a8c0-123856483842">
+              <FromMicroNode nodeRef="a33d772f-5b3a-46c2-9865-84eac9dc1486" portIndex="2" />
+              <ToMicroNode nodeRef="a7fcd88b-79bd-4343-a04c-0d1006026b08" portIndex="0" />
+            </MicroLink>
+            <MicroLink implementationObjectRef="5483b51e-1ccb-4680-869d-d71497b47861">
+              <FromMicroNode nodeRef="34ece0aa-e0e0-4048-92ae-7835b39bec49" portIndex="2" />
+              <ToMicroNode nodeRef="0ee03782-d084-40fb-8858-b3dd3ab52eb9" portIndex="0" />
+            </MicroLink>
+            <MicroLink implementationObjectRef="2dfb9ed5-cecd-4f01-aa02-3a3b616f521f">
+              <FromMicroNode nodeRef="34ece0aa-e0e0-4048-92ae-7835b39bec49" portIndex="0" />
+              <ToMicroNode nodeRef="72da39b0-39e2-4f66-9a00-ab9471c74c60" portIndex="0" />
+            </MicroLink>
+            <MicroLink implementationObjectRef="95fd5f0a-8d61-4217-94a3-5f8e03bc80a5">
+              <FromMicroNode nodeRef="72da39b0-39e2-4f66-9a00-ab9471c74c60" portIndex="1" />
+              <ToMicroNode nodeRef="6ba5e21e-4bb2-457d-b347-2c145a4bc59b" portIndex="2" />
+            </MicroLink>
+            <MicroLink implementationObjectRef="a070fdca-2989-49f0-8509-02dcdd5158b4">
+              <FromMicroNode nodeRef="6ba5e21e-4bb2-457d-b347-2c145a4bc59b" portIndex="0" />
+              <ToMicroNode nodeRef="5d066f5f-f819-4d83-90ee-32354e60e819" portIndex="0" />
+            </MicroLink>
+            <MicroLink implementationObjectRef="0c7f8b71-1790-4a49-b2db-ca4f286a85af">
+              <FromMicroNode nodeRef="f292b4b4-52c5-4989-9f7f-b9b36654ac35" portIndex="1" />
+              <ToMicroNode nodeRef="34ece0aa-e0e0-4048-92ae-7835b39bec49" portIndex="1" />
+            </MicroLink>
+            <MicroLink implementationObjectRef="4703168d-6e98-4921-8c36-4471e992e1b5">
+              <FromMicroNode nodeRef="72da39b0-39e2-4f66-9a00-ab9471c74c60" portIndex="2" />
+              <ToMicroNode nodeRef="b7a04a5b-8a2a-428e-a8ab-86423a96d6fa" portIndex="2" />
+            </MicroLink>
+            <MicroLink implementationObjectRef="c8ece621-bece-4b2c-82c1-a18a3541db84">
+              <FromMicroNode nodeRef="a33d772f-5b3a-46c2-9865-84eac9dc1486" portIndex="1" />
+              <ToMicroNode nodeRef="6ba5e21e-4bb2-457d-b347-2c145a4bc59b" portIndex="1" />
+            </MicroLink>
+          </MicroLinks>
+        </RailTopology>
+        <RailImplementation>
+          <Junctions>
+            <SingleSwitch puic="a33d772f-5b3a-46c2-9865-84eac9dc1486" name="9087" angleRatio="1:9" isReadRedundantly="Unknown">
+              <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+              <Location>
+                <GeographicLocation dataAcquisitionMethod="Constructed">
+                  <gml:Point srsName="EPSG:28992">
+                    <gml:coordinates>803.137927,-5.3,0</gml:coordinates>
+                  </gml:Point>
+                </GeographicLocation>
+              </Location>
+              <MathematicalPoint dataAcquisitionMethod="Constructed">
+                <gml:Point srsName="EPSG:28992">
+                  <gml:coordinates>813.667927,-5.3,0</gml:coordinates>
+                </gml:Point>
+              </MathematicalPoint>
+              <SwitchBlades puic="97e97e2d-39f5-411b-8852-7d884015ce40" name="A/B" switchCheckerAmount="0">
+                <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                <Location>
+                  <GeographicLocation dataAcquisitionMethod="Constructed">
+                    <gml:Point srsName="EPSG:28992">
+                      <gml:coordinates>803.137927,-5.3,0</gml:coordinates>
+                    </gml:Point>
+                  </GeographicLocation>
+                </Location>
+              </SwitchBlades>
+              <SwitchMechanism puic="4d945976-a881-4271-bf9b-e49516186c85" name="9087" fixType="Unknown" operatingType="Unknown" normalPosition="Unknown" preferredPosition="Unknown" isSpringSwitch="False">
+                <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                <Location>
+                  <GeographicLocation dataAcquisitionMethod="Photogrammetry">
+                    <gml:Point srsName="EPSG:28992">
+                      <gml:coordinates>803.137927,-5.3,0</gml:coordinates>
+                    </gml:Point>
+                  </GeographicLocation>
+                </Location>
+              </SwitchMechanism>
+              <Passage puic="a7988ec7-63ba-4bf0-b7c8-746e012f4a18" name="V" sideTag="V" unrestricted="False">
+                <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                <Location>
+                  <GeographicLocation dataAcquisitionMethod="Constructed">
+                    <gml:LineString srsName="EPSG:28992">
+                      <gml:coordinates>799.337927,-5.3,0 801.912927,-5.3,0 803.137927,-5.3,0</gml:coordinates>
+                    </gml:LineString>
+                  </GeographicLocation>
+                </Location>
+                <AlignmentData>
+                  <HorizontalStraightPath puic="1cf87362-1557-4d90-a1fd-2b666b81cf6a" name="part0" startX="799.337927" startY="-5.3" endX="801.912927" endY="-5.3" length="2.5749999999999318" angle="-0">
+                    <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                    <VerticalAlignment>
+                      <VerticalStraightPath startM="0" endM="2.575" startZ="0" endZ="0" length="2.5749999999999318" horizontalLength="2.575" angle="0" />
+                    </VerticalAlignment>
+                    <CantValues>
+                      <CantValue startM="0" endM="2.5749999999999318" startValue="0" endValue="0" />
+                    </CantValues>
+                    <DesignSpeedValues>
+                      <DesignSpeedValue startM="0" endM="2.5749999999999318" value="40" />
+                    </DesignSpeedValues>
+                  </HorizontalStraightPath>
+                  <HorizontalStraightPath puic="b7be5706-1e06-4204-a8fd-15423f742dd8" name="part1" startX="801.912927" startY="-5.3" endX="803.137927" endY="-5.3" length="1.2250000000000227" angle="-0">
+                    <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                    <VerticalAlignment>
+                      <VerticalStraightPath startM="0" endM="1.225" startZ="0" endZ="0" length="1.2250000000000227" horizontalLength="1.225" angle="0" />
+                    </VerticalAlignment>
+                    <CantValues>
+                      <CantValue startM="0" endM="1.2250000000000227" startValue="0" endValue="0" />
+                    </CantValues>
+                    <DesignSpeedValues>
+                      <DesignSpeedValue startM="0" endM="1.2250000000000227" value="40" />
+                    </DesignSpeedValues>
+                  </HorizontalStraightPath>
+                </AlignmentData>
+              </Passage>
+              <Passage puic="3a0b5c59-0bf3-4d8c-859b-66e3cd5cc661" name="R" sideTag="R" unrestricted="False">
+                <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                <Location>
+                  <GeographicLocation dataAcquisitionMethod="Constructed">
+                    <gml:LineString srsName="EPSG:28992">
+                      <gml:coordinates>803.137927,-5.3,0 830.502927,-5.3,0 837.664966,-5.3,0</gml:coordinates>
+                    </gml:LineString>
+                  </GeographicLocation>
+                </Location>
+                <AlignmentData>
+                  <HorizontalStraightPath puic="9f797ba3-f5f9-4a25-85f0-7f0d6730f296" name="part0" startX="803.137927" startY="-5.3" endX="830.502927" endY="-5.3" length="27.365000000000009" angle="-0">
+                    <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                    <VerticalAlignment>
+                      <VerticalStraightPath startM="0" endM="27.365" startZ="0" endZ="0" length="27.365000000000009" horizontalLength="27.365" angle="0" />
+                    </VerticalAlignment>
+                    <CantValues>
+                      <CantValue startM="0" endM="27.365000000000009" startValue="0" endValue="0" />
+                    </CantValues>
+                    <DesignSpeedValues>
+                      <DesignSpeedValue startM="0" endM="27.365000000000009" value="40" />
+                    </DesignSpeedValues>
+                  </HorizontalStraightPath>
+                  <HorizontalStraightPath puic="c00d5e86-a45f-4d88-b1e1-026c95b69d30" name="part1" startX="830.502927" startY="-5.3" endX="837.664966439588" endY="-5.3" length="7.1620394395880567" angle="-0">
+                    <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                    <VerticalAlignment>
+                      <VerticalStraightPath startM="0" endM="7.162039439588" startZ="0" endZ="0" length="7.1620394395880567" horizontalLength="7.162039439588" angle="0" />
+                    </VerticalAlignment>
+                    <CantValues>
+                      <CantValue startM="0" endM="7.1620394395880567" startValue="0" endValue="0" />
+                    </CantValues>
+                    <DesignSpeedValues>
+                      <DesignSpeedValue startM="0" endM="7.1620394395880567" value="40" />
+                    </DesignSpeedValues>
+                  </HorizontalStraightPath>
+                </AlignmentData>
+              </Passage>
+              <Passage puic="a78a0ac3-a075-49a8-a461-25a5d591ed2a" name="L" sideTag="L" unrestricted="False">
+                <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                <Location>
+                  <GeographicLocation dataAcquisitionMethod="Constructed">
+                    <gml:LineString srsName="EPSG:28992">
+                      <gml:coordinates>837.518189,-2.65,0 830.399954,-3.440915,0 830.399929,-3.4409,0 824.490187,-4.097538,0 818.509216,-4.668961,0 812.51348,-5.055853,0 806.508671,-5.257846,0 806.508671,-5.257846,0 804.453881,-5.28684,0 804.453881,-5.28684,0 803.137927,-5.3,0</gml:coordinates>
+                    </gml:LineString>
+                  </GeographicLocation>
+                </Location>
+                <AlignmentData>
+                  <HorizontalStraightPath puic="10eb1a48-6f6b-4e39-aa1b-57d16bfaf8d9" name="part0" startX="837.5181885055232" startY="-2.6500000497094707" endX="830.399954" endY="-3.440915" length="7.1620394395880593" angle="3.2522498754897931">
+                    <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                    <VerticalAlignment>
+                      <VerticalStraightPath startM="0" endM="7.1620394395881" startZ="0" endZ="0" length="7.1620394395881029" horizontalLength="7.1620394395881" angle="-0" />
+                    </VerticalAlignment>
+                    <CantValues>
+                      <CantValue startM="0" endM="7.1620394395880593" startValue="0" endValue="0" />
+                    </CantValues>
+                    <DesignSpeedValues>
+                      <DesignSpeedValue startM="0" endM="7.1620394395880593" value="40" />
+                    </DesignSpeedValues>
+                  </HorizontalStraightPath>
+                  <HorizontalStraightPath puic="ee7d8565-5853-429d-9854-78a84fab171f" name="part1" startX="830.39992882862646" startY="-3.4409002482166589" endX="824.49018683868189" endY="-4.0975384624462663" length="5.94611" angle="3.2522499107586107">
+                    <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                    <VerticalAlignment>
+                      <VerticalStraightPath startM="0" endM="5.94611" startZ="0" endZ="0" length="5.9461100000000009" horizontalLength="5.94611" angle="-0" />
+                    </VerticalAlignment>
+                    <CantValues>
+                      <CantValue startM="0" endM="5.94611" startValue="0" endValue="0" />
+                    </CantValues>
+                    <DesignSpeedValues>
+                      <DesignSpeedValue startM="0" endM="5.94611" value="40" />
+                    </DesignSpeedValues>
+                  </HorizontalStraightPath>
+                  <HorizontalCurve puic="03863d64-6976-40a2-9092-244af7b002a5" name="part2" startX="824.49018683868189" startY="-4.0975384624462663" endX="806.50867086486528" endY="-5.2578461341290108" length="18.02533" startAngle="3.2522499107586107" endAngle="3.1598123210150209" radius="195">
+                    <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                    <VerticalAlignment>
+                      <VerticalStraightPath startM="0" endM="18.02533" startZ="0" endZ="0" length="18.02533" horizontalLength="18.02533" angle="-0" />
+                    </VerticalAlignment>
+                    <CantValues>
+                      <CantValue startM="0" endM="18.02533" startValue="0" endValue="0" />
+                    </CantValues>
+                    <DesignSpeedValues>
+                      <DesignSpeedValue startM="0" endM="18.02533" value="40" />
+                    </DesignSpeedValues>
+                  </HorizontalCurve>
+                  <HorizontalCurve puic="0b9661d9-5234-4e43-a331-807304a4290e" name="part3" startX="806.50867086486528" startY="-5.2578461341290108" endX="804.45388120392488" endY="-5.2868404569887391" length="2.055" startAngle="3.1598123210150209" endAngle="3.1515923210150207" radius="250">
+                    <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                    <VerticalAlignment>
+                      <VerticalStraightPath startM="0" endM="2.055" startZ="0" endZ="0" length="2.055" horizontalLength="2.055" angle="-0" />
+                    </VerticalAlignment>
+                    <CantValues>
+                      <CantValue startM="0" endM="2.055" startValue="0" endValue="0" />
+                    </CantValues>
+                    <DesignSpeedValues>
+                      <DesignSpeedValue startM="0" endM="2.055" value="40" />
+                    </DesignSpeedValues>
+                  </HorizontalCurve>
+                  <HorizontalStraightPath puic="91cc7951-e1bb-47ef-966a-f9ed245fc61c" name="part4" startX="804.45388120392488" startY="-5.2868404569887391" endX="803.137927" endY="-5.3" length="1.31602" angle="3.1515923210150207">
+                    <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                    <VerticalAlignment>
+                      <VerticalStraightPath startM="0" endM="1.31602" startZ="0" endZ="0" length="1.31602" horizontalLength="1.31602" angle="-0" />
+                    </VerticalAlignment>
+                    <CantValues>
+                      <CantValue startM="0" endM="1.31602" startValue="0" endValue="0" />
+                    </CantValues>
+                    <DesignSpeedValues>
+                      <DesignSpeedValue startM="0" endM="1.31602" value="40" />
+                    </DesignSpeedValues>
+                  </HorizontalStraightPath>
+                </AlignmentData>
+              </Passage>
+              <DivergingPassageRefs>a78a0ac3-a075-49a8-a461-25a5d591ed2a</DivergingPassageRefs>
+            </SingleSwitch>
+            <SingleSwitch puic="6ba5e21e-4bb2-457d-b347-2c145a4bc59b" name="9089" angleRatio="1:9" isReadRedundantly="Unknown">
+              <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+              <Location>
+                <GeographicLocation dataAcquisitionMethod="Constructed">
+                  <gml:Point srsName="EPSG:28992">
+                    <gml:coordinates>871.89845,0,0</gml:coordinates>
+                  </gml:Point>
+                </GeographicLocation>
+              </Location>
+              <MathematicalPoint dataAcquisitionMethod="Constructed">
+                <gml:Point srsName="EPSG:28992">
+                  <gml:coordinates>861.36845,0,0</gml:coordinates>
+                </gml:Point>
+              </MathematicalPoint>
+              <SwitchBlades puic="798fdc6c-49cc-4636-bc99-1f4d2c984db4" name="A/B" switchCheckerAmount="0">
+                <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                <Location>
+                  <GeographicLocation dataAcquisitionMethod="Constructed">
+                    <gml:Point srsName="EPSG:28992">
+                      <gml:coordinates>871.89845,0,0</gml:coordinates>
+                    </gml:Point>
+                  </GeographicLocation>
+                </Location>
+              </SwitchBlades>
+              <SwitchMechanism puic="9fa6bc39-1f30-437a-9cea-3699a0755927" name="9089" fixType="Unknown" operatingType="Unknown" normalPosition="Unknown" preferredPosition="Unknown" isSpringSwitch="False">
+                <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                <Location>
+                  <GeographicLocation dataAcquisitionMethod="Photogrammetry">
+                    <gml:Point srsName="EPSG:28992">
+                      <gml:coordinates>871.89845,0,0</gml:coordinates>
+                    </gml:Point>
+                  </GeographicLocation>
+                </Location>
+              </SwitchMechanism>
+              <Passage puic="42944c82-3669-4bc7-b85b-e10c06b0f54f" name="V" sideTag="V" unrestricted="False">
+                <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                <Location>
+                  <GeographicLocation dataAcquisitionMethod="Constructed">
+                    <gml:LineString srsName="EPSG:28992">
+                      <gml:coordinates>871.89845,0,0 873.12345,0,0 873.12345,0,0 875.69845,0,0</gml:coordinates>
+                    </gml:LineString>
+                  </GeographicLocation>
+                </Location>
+                <AlignmentData>
+                  <HorizontalStraightPath puic="04d7ad63-c72b-4424-96d6-26bf50aba389" name="part0" startX="871.89845" startY="-1.2503359324734163E-11" endX="873.12345" endY="0" length="1.2250000000000227" angle="-0">
+                    <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                    <VerticalAlignment>
+                      <VerticalStraightPath startM="0" endM="1.225" startZ="0" endZ="0" length="1.2250000000000227" horizontalLength="1.225" angle="0" />
+                    </VerticalAlignment>
+                    <CantValues>
+                      <CantValue startM="0" endM="1.2250000000000227" startValue="0" endValue="0" />
+                    </CantValues>
+                    <DesignSpeedValues>
+                      <DesignSpeedValue startM="0" endM="1.2250000000000227" value="40" />
+                    </DesignSpeedValues>
+                  </HorizontalStraightPath>
+                  <HorizontalStraightPath puic="aaacf039-ab76-420e-b297-941db3d36c9d" name="part1" startX="873.12345" startY="0" endX="875.69845" endY="2.6282571641788137E-11" length="2.5749999999999318" angle="-0">
+                    <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                    <VerticalAlignment>
+                      <VerticalStraightPath startM="0" endM="2.575" startZ="0" endZ="0" length="2.5749999999999318" horizontalLength="2.575" angle="0" />
+                    </VerticalAlignment>
+                    <CantValues>
+                      <CantValue startM="0" endM="2.5749999999999318" startValue="0" endValue="0" />
+                    </CantValues>
+                    <DesignSpeedValues>
+                      <DesignSpeedValue startM="0" endM="2.5749999999999318" value="40" />
+                    </DesignSpeedValues>
+                  </HorizontalStraightPath>
+                </AlignmentData>
+              </Passage>
+              <Passage puic="c2a88de4-5fea-46b7-b892-ad0b24311840" name="R" sideTag="R" unrestricted="False">
+                <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                <Location>
+                  <GeographicLocation dataAcquisitionMethod="Constructed">
+                    <gml:LineString srsName="EPSG:28992">
+                      <gml:coordinates>837.371411,0,0 844.53345,0,0 844.53345,0,0 871.89845,0,0</gml:coordinates>
+                    </gml:LineString>
+                  </GeographicLocation>
+                </Location>
+                <AlignmentData>
+                  <HorizontalStraightPath puic="6e86b36f-d42b-4277-909e-64c782b3fd95" name="part0" startX="837.37141056041185" startY="-7.3101675600888647E-11" endX="844.53345" endY="0" length="7.16203943958817" angle="-0">
+                    <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                    <VerticalAlignment>
+                      <VerticalStraightPath startM="0" endM="7.162039439588" startZ="0" endZ="0" length="7.1620394395880567" horizontalLength="7.162039439588" angle="0" />
+                    </VerticalAlignment>
+                    <CantValues>
+                      <CantValue startM="0" endM="7.16203943958817" startValue="0" endValue="0" />
+                    </CantValues>
+                    <DesignSpeedValues>
+                      <DesignSpeedValue startM="0" endM="7.16203943958817" value="40" />
+                    </DesignSpeedValues>
+                  </HorizontalStraightPath>
+                  <HorizontalStraightPath puic="393808e5-44bf-4184-b8e8-8aab9fc493f1" name="part1" startX="844.53345" startY="0" endX="871.89845" endY="-1.2503359324734163E-11" length="27.365000000000009" angle="-0">
+                    <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                    <VerticalAlignment>
+                      <VerticalStraightPath startM="0" endM="27.365" startZ="0" endZ="0" length="27.365000000000009" horizontalLength="27.365" angle="0" />
+                    </VerticalAlignment>
+                    <CantValues>
+                      <CantValue startM="0" endM="27.365000000000009" startValue="0" endValue="0" />
+                    </CantValues>
+                    <DesignSpeedValues>
+                      <DesignSpeedValue startM="0" endM="27.365000000000009" value="40" />
+                    </DesignSpeedValues>
+                  </HorizontalStraightPath>
+                </AlignmentData>
+              </Passage>
+              <Passage puic="b16d5caa-0e4b-4c1d-9036-93167fdde2ce" name="L" sideTag="L" unrestricted="False">
+                <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                <Location>
+                  <GeographicLocation dataAcquisitionMethod="Constructed">
+                    <gml:LineString srsName="EPSG:28992">
+                      <gml:coordinates>871.89845,0,0 870.582496,-0.01316,0 870.582496,-0.01316,0 868.527706,-0.042154,0 862.522897,-0.244147,0 856.527161,-0.631039,0 850.54619,-1.202462,0 844.636448,-1.8591,0 844.636423,-1.859085,0 837.518188,-2.65,0</gml:coordinates>
+                    </gml:LineString>
+                  </GeographicLocation>
+                </Location>
+                <AlignmentData>
+                  <HorizontalStraightPath puic="2af1254b-09b6-4124-bd20-72b916d5d31e" name="part0" startX="871.89845" startY="-1.2503359324734163E-11" endX="870.58249579607525" endY="-0.013159543037195982" length="1.31602" angle="3.1515923210252277">
+                    <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                    <VerticalAlignment>
+                      <VerticalStraightPath startM="0" endM="1.31602" startZ="0" endZ="0" length="1.3160199999999946" horizontalLength="1.31602" angle="-0" />
+                    </VerticalAlignment>
+                    <CantValues>
+                      <CantValue startM="0" endM="1.31602" startValue="0" endValue="0" />
+                    </CantValues>
+                    <DesignSpeedValues>
+                      <DesignSpeedValue startM="0" endM="1.31602" value="40" />
+                    </DesignSpeedValues>
+                  </HorizontalStraightPath>
+                  <HorizontalCurve puic="90df93af-b2e4-4d96-9696-f5e2a9bf59ba" name="part1" startX="870.58249579607525" startY="-0.013159543037195982" endX="868.527706135135" endY="-0.042153865917867961" length="2.055" startAngle="3.1515923210252277" endAngle="3.1598123210252282" radius="-250">
+                    <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                    <VerticalAlignment>
+                      <VerticalStraightPath startM="0" endM="2.055" startZ="0" endZ="0" length="2.0550000000000068" horizontalLength="2.055" angle="-0" />
+                    </VerticalAlignment>
+                    <CantValues>
+                      <CantValue startM="0" endM="2.055" startValue="0" endValue="0" />
+                    </CantValues>
+                    <DesignSpeedValues>
+                      <DesignSpeedValue startM="0" endM="2.055" value="40" />
+                    </DesignSpeedValues>
+                  </HorizontalCurve>
+                  <HorizontalCurve puic="56723671-442e-4314-b797-2b0cc46758fe" name="part2" startX="868.527706135135" startY="-0.042153865917867961" endX="850.54619016133029" endY="-1.2024615377841315" length="18.02533" startAngle="3.1598123210252282" endAngle="3.2522499107688176" radius="-195">
+                    <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                    <VerticalAlignment>
+                      <VerticalStraightPath startM="0" endM="18.02533" startZ="0" endZ="0" length="18.025329999999997" horizontalLength="18.02533" angle="-0" />
+                    </VerticalAlignment>
+                    <CantValues>
+                      <CantValue startM="0" endM="18.02533" startValue="0" endValue="0" />
+                    </CantValues>
+                    <DesignSpeedValues>
+                      <DesignSpeedValue startM="0" endM="18.02533" value="40" />
+                    </DesignSpeedValues>
+                  </HorizontalCurve>
+                  <HorizontalStraightPath puic="ceac3d26-95e8-4779-ae62-d4539408a2d2" name="part3" startX="850.54619016133029" startY="-1.2024615377841315" endX="844.63644817139243" endY="-1.8590997520740589" length="5.94611" angle="3.2522499107688176">
+                    <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                    <VerticalAlignment>
+                      <VerticalStraightPath startM="0" endM="5.94611" startZ="0" endZ="0" length="5.9461099999999973" horizontalLength="5.94611" angle="-0" />
+                    </VerticalAlignment>
+                    <CantValues>
+                      <CantValue startM="0" endM="5.94611" startValue="0" endValue="0" />
+                    </CantValues>
+                    <DesignSpeedValues>
+                      <DesignSpeedValue startM="0" endM="5.94611" value="40" />
+                    </DesignSpeedValues>
+                  </HorizontalStraightPath>
+                  <HorizontalStraightPath puic="c58b6cf1-f886-4aec-9c87-7e286f51538c" name="part4" startX="844.636423" startY="-1.859085" endX="837.51818849448478" endY="-2.6499999503631959" length="7.1620394395881721" angle="3.2522498755000004">
+                    <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                    <VerticalAlignment>
+                      <VerticalStraightPath startM="0" endM="7.1620394395882" startZ="0" endZ="0" length="7.1620394395881988" horizontalLength="7.1620394395882" angle="-0" />
+                    </VerticalAlignment>
+                    <CantValues>
+                      <CantValue startM="0" endM="7.1620394395881721" startValue="0" endValue="0" />
+                    </CantValues>
+                    <DesignSpeedValues>
+                      <DesignSpeedValue startM="0" endM="7.1620394395881721" value="40" />
+                    </DesignSpeedValues>
+                  </HorizontalStraightPath>
+                </AlignmentData>
+              </Passage>
+              <DivergingPassageRefs>b16d5caa-0e4b-4c1d-9036-93167fdde2ce</DivergingPassageRefs>
+            </SingleSwitch>
+            <SingleSwitch puic="72da39b0-39e2-4f66-9a00-ab9471c74c60" name="9083" angleRatio="1:9" isReadRedundantly="Unknown">
+              <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+              <Location>
+                <GeographicLocation dataAcquisitionMethod="Constructed">
+                  <gml:Point srsName="EPSG:28992">
+                    <gml:coordinates>428.396162,0,0</gml:coordinates>
+                  </gml:Point>
+                </GeographicLocation>
+              </Location>
+              <MathematicalPoint dataAcquisitionMethod="Constructed">
+                <gml:Point srsName="EPSG:28992">
+                  <gml:coordinates>438.926423,0,0</gml:coordinates>
+                </gml:Point>
+              </MathematicalPoint>
+              <SwitchBlades puic="d5e2d222-fe19-4ad9-bc1f-8f0cf5c77258" name="A/B" switchCheckerAmount="0">
+                <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                <Location>
+                  <GeographicLocation dataAcquisitionMethod="Constructed">
+                    <gml:Point srsName="EPSG:28992">
+                      <gml:coordinates>428.396162,0,0</gml:coordinates>
+                    </gml:Point>
+                  </GeographicLocation>
+                </Location>
+              </SwitchBlades>
+              <SwitchMechanism puic="3755ee30-2395-4a0e-bca4-3b58ee04077e" name="9083" fixType="Unknown" operatingType="Unknown" normalPosition="Unknown" preferredPosition="Unknown" isSpringSwitch="False">
+                <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                <Location>
+                  <GeographicLocation dataAcquisitionMethod="Photogrammetry">
+                    <gml:Point srsName="EPSG:28992">
+                      <gml:coordinates>428.396162,0,0</gml:coordinates>
+                    </gml:Point>
+                  </GeographicLocation>
+                </Location>
+              </SwitchMechanism>
+              <Passage puic="d54a0bbc-e68a-48b0-81cf-1a2e59e651aa" name="V" sideTag="V" unrestricted="False">
+                <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                <Location>
+                  <GeographicLocation dataAcquisitionMethod="Constructed">
+                    <gml:LineString srsName="EPSG:28992">
+                      <gml:coordinates>424.596162,0,0 427.171162,0,0 428.396162,0,0</gml:coordinates>
+                    </gml:LineString>
+                  </GeographicLocation>
+                </Location>
+                <AlignmentData>
+                  <HorizontalStraightPath puic="6e220923-3043-4a2c-ac79-25406e91513f" name="part0" startX="424.596162" startY="0" endX="427.171162" endY="0" length="2.5749999999999886" angle="-0">
+                    <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                    <VerticalAlignment>
+                      <VerticalStraightPath startM="0" endM="2.575" startZ="0" endZ="0" length="2.5749999999999886" horizontalLength="2.575" angle="0" />
+                    </VerticalAlignment>
+                    <CantValues>
+                      <CantValue startM="0" endM="2.5749999999999886" startValue="0" endValue="0" />
+                    </CantValues>
+                    <DesignSpeedValues>
+                      <DesignSpeedValue startM="0" endM="2.5749999999999886" value="40" />
+                    </DesignSpeedValues>
+                  </HorizontalStraightPath>
+                  <HorizontalStraightPath puic="89ba4f07-cb8e-4e0e-a04b-a8d202cb8ce2" name="part1" startX="427.171162" startY="0" endX="428.396162" endY="0" length="1.2250000000000227" angle="-0">
+                    <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                    <VerticalAlignment>
+                      <VerticalStraightPath startM="0" endM="1.225" startZ="0" endZ="0" length="1.2250000000000227" horizontalLength="1.225" angle="0" />
+                    </VerticalAlignment>
+                    <CantValues>
+                      <CantValue startM="0" endM="1.2250000000000227" startValue="0" endValue="0" />
+                    </CantValues>
+                    <DesignSpeedValues>
+                      <DesignSpeedValue startM="0" endM="1.2250000000000227" value="40" />
+                    </DesignSpeedValues>
+                  </HorizontalStraightPath>
+                </AlignmentData>
+              </Passage>
+              <Passage puic="1bd900fd-1eb0-44f0-95ec-7fe04ac912c1" name="L" sideTag="L" unrestricted="False">
+                <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                <Location>
+                  <GeographicLocation dataAcquisitionMethod="Constructed">
+                    <gml:LineString srsName="EPSG:28992">
+                      <gml:coordinates>428.396162,0,0 455.761423,0,0 462.923462,0,0</gml:coordinates>
+                    </gml:LineString>
+                  </GeographicLocation>
+                </Location>
+                <AlignmentData>
+                  <HorizontalStraightPath puic="ed712bec-b827-4171-86df-3cdf0a12895b" name="part0" startX="428.396162" startY="0" endX="455.761423" endY="0" length="27.365260999999975" angle="-0">
+                    <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                    <VerticalAlignment>
+                      <VerticalStraightPath startM="0" endM="27.365261" startZ="0" endZ="0" length="27.365260999999975" horizontalLength="27.365261" angle="0" />
+                    </VerticalAlignment>
+                    <CantValues>
+                      <CantValue startM="0" endM="27.365260999999975" startValue="0" endValue="0" />
+                    </CantValues>
+                    <DesignSpeedValues>
+                      <DesignSpeedValue startM="0" endM="27.365260999999975" value="40" />
+                    </DesignSpeedValues>
+                  </HorizontalStraightPath>
+                  <HorizontalStraightPath puic="c4f5181f-45fe-4869-8727-0f3264e2aa33" name="part1" startX="455.761423" startY="0" endX="462.92346243958809" endY="0" length="7.1620394395881135" angle="-0">
+                    <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                    <VerticalAlignment>
+                      <VerticalStraightPath startM="0" endM="7.162039439588" startZ="0" endZ="0" length="7.162039439588" horizontalLength="7.162039439588" angle="0" />
+                    </VerticalAlignment>
+                    <CantValues>
+                      <CantValue startM="0" endM="7.1620394395881135" startValue="0" endValue="0" />
+                    </CantValues>
+                    <DesignSpeedValues>
+                      <DesignSpeedValue startM="0" endM="7.1620394395881135" value="40" />
+                    </DesignSpeedValues>
+                  </HorizontalStraightPath>
+                </AlignmentData>
+              </Passage>
+              <Passage puic="35884ad3-6eec-4355-a426-a5f76d52b2a1" name="R" sideTag="R" unrestricted="False">
+                <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                <Location>
+                  <GeographicLocation dataAcquisitionMethod="Constructed">
+                    <gml:LineString srsName="EPSG:28992">
+                      <gml:coordinates>462.776424,-2.65,0 455.658189,-1.859085,0 455.658164,-1.8591,0 449.748422,-1.202462,0 449.748422,-1.202462,0 443.767451,-0.631039,0 437.771715,-0.244147,0 431.766906,-0.042154,0 429.712116,-0.01316,0 429.712116,-0.01316,0 428.396162,0,0</gml:coordinates>
+                    </gml:LineString>
+                  </GeographicLocation>
+                </Location>
+                <AlignmentData>
+                  <HorizontalStraightPath puic="f91c9a5a-6521-4a10-8c15-22b827be836e" name="part0" startX="462.77642350553936" startY="-2.6499999501452227" endX="455.658189" endY="-1.859085" length="7.1620394395880593" angle="3.0309354317102066">
+                    <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                    <VerticalAlignment>
+                      <VerticalStraightPath startM="0" endM="7.1620394395881" startZ="0" endZ="0" length="7.1620394395881029" horizontalLength="7.1620394395881" angle="-0" />
+                    </VerticalAlignment>
+                    <CantValues>
+                      <CantValue startM="0" endM="7.1620394395880593" startValue="0" endValue="0" />
+                    </CantValues>
+                    <DesignSpeedValues>
+                      <DesignSpeedValue startM="0" endM="7.1620394395880593" value="40" />
+                    </DesignSpeedValues>
+                  </HorizontalStraightPath>
+                  <HorizontalStraightPath puic="f574e343-3b62-45c5-a8bc-c7b233ee4f4f" name="part1" startX="455.65816382862658" startY="-1.8590997517833205" endX="449.74842183868208" endY="-1.2024615375537167" length="5.94611" angle="3.0309353964209755">
+                    <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                    <VerticalAlignment>
+                      <VerticalStraightPath startM="0" endM="5.94611" startZ="0" endZ="0" length="5.9461100000000009" horizontalLength="5.94611" angle="-0" />
+                    </VerticalAlignment>
+                    <CantValues>
+                      <CantValue startM="0" endM="5.94611" startValue="0" endValue="0" />
+                    </CantValues>
+                    <DesignSpeedValues>
+                      <DesignSpeedValue startM="0" endM="5.94611" value="40" />
+                    </DesignSpeedValues>
+                  </HorizontalStraightPath>
+                  <HorizontalCurve puic="30268ecb-f3db-455d-aa87-4fbb2df9f446" name="part2" startX="449.74842183868208" startY="-1.2024615375537167" endX="431.76690586486552" endY="-0.04215386587097214" length="18.02533" startAngle="3.0309353964209755" endAngle="3.1233729861645649" radius="-195">
+                    <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                    <VerticalAlignment>
+                      <VerticalStraightPath startM="0" endM="18.02533" startZ="0" endZ="0" length="18.02533" horizontalLength="18.02533" angle="-0" />
+                    </VerticalAlignment>
+                    <CantValues>
+                      <CantValue startM="0" endM="18.02533" startValue="0" endValue="0" />
+                    </CantValues>
+                    <DesignSpeedValues>
+                      <DesignSpeedValue startM="0" endM="18.02533" value="40" />
+                    </DesignSpeedValues>
+                  </HorizontalCurve>
+                  <HorizontalCurve puic="be2d2050-3b3f-48fd-a0f5-4a6628ad55b4" name="part3" startX="431.76690586486552" startY="-0.04215386587097214" endX="429.71211620392495" endY="-0.013159543011261233" length="2.055" startAngle="3.1233729861645649" endAngle="3.1315929861645664" radius="-250">
+                    <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                    <VerticalAlignment>
+                      <VerticalStraightPath startM="0" endM="2.055" startZ="0" endZ="0" length="2.055" horizontalLength="2.055" angle="-0" />
+                    </VerticalAlignment>
+                    <CantValues>
+                      <CantValue startM="0" endM="2.055" startValue="0" endValue="0" />
+                    </CantValues>
+                    <DesignSpeedValues>
+                      <DesignSpeedValue startM="0" endM="2.055" value="40" />
+                    </DesignSpeedValues>
+                  </HorizontalCurve>
+                  <HorizontalStraightPath puic="81b90f65-3d8b-4c3a-8859-cb162b3a2c19" name="part4" startX="429.71211620392495" startY="-0.013159543011261233" endX="428.396162" endY="0" length="1.31602" angle="3.1315929861645664">
+                    <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                    <VerticalAlignment>
+                      <VerticalStraightPath startM="0" endM="1.31602" startZ="0" endZ="0" length="1.31602" horizontalLength="1.31602" angle="-0" />
+                    </VerticalAlignment>
+                    <CantValues>
+                      <CantValue startM="0" endM="1.31602" startValue="0" endValue="0" />
+                    </CantValues>
+                    <DesignSpeedValues>
+                      <DesignSpeedValue startM="0" endM="1.31602" value="40" />
+                    </DesignSpeedValues>
+                  </HorizontalStraightPath>
+                </AlignmentData>
+              </Passage>
+              <DivergingPassageRefs>35884ad3-6eec-4355-a426-a5f76d52b2a1</DivergingPassageRefs>
+            </SingleSwitch>
+            <SingleSwitch puic="b7a04a5b-8a2a-428e-a8ab-86423a96d6fa" name="9085" angleRatio="1:9" isReadRedundantly="Unknown">
+              <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+              <Location>
+                <GeographicLocation dataAcquisitionMethod="Constructed">
+                  <gml:Point srsName="EPSG:28992">
+                    <gml:coordinates>497.156685,-5.3,0</gml:coordinates>
+                  </gml:Point>
+                </GeographicLocation>
+              </Location>
+              <MathematicalPoint dataAcquisitionMethod="Constructed">
+                <gml:Point srsName="EPSG:28992">
+                  <gml:coordinates>486.626424,-5.3,0</gml:coordinates>
+                </gml:Point>
+              </MathematicalPoint>
+              <SwitchBlades puic="0ebe8413-5f81-4709-8582-9f34d96c914c" name="A/B" switchCheckerAmount="0">
+                <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                <Location>
+                  <GeographicLocation dataAcquisitionMethod="Constructed">
+                    <gml:Point srsName="EPSG:28992">
+                      <gml:coordinates>497.156685,-5.3,0</gml:coordinates>
+                    </gml:Point>
+                  </GeographicLocation>
+                </Location>
+              </SwitchBlades>
+              <SwitchMechanism puic="bbbd4431-4b2f-4413-8256-a43ee6cacfc8" name="9085" fixType="Unknown" operatingType="Unknown" normalPosition="Unknown" preferredPosition="Unknown" isSpringSwitch="False">
+                <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                <Location>
+                  <GeographicLocation dataAcquisitionMethod="Photogrammetry">
+                    <gml:Point srsName="EPSG:28992">
+                      <gml:coordinates>497.156685,-5.3,0</gml:coordinates>
+                    </gml:Point>
+                  </GeographicLocation>
+                </Location>
+              </SwitchMechanism>
+              <Passage puic="9c52d87c-7cba-489f-a026-2b5fa04b558d" name="V" sideTag="V" unrestricted="False">
+                <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                <Location>
+                  <GeographicLocation dataAcquisitionMethod="Constructed">
+                    <gml:LineString srsName="EPSG:28992">
+                      <gml:coordinates>497.156685,-5.3,0 498.381685,-5.3,0 498.381685,-5.3,0 500.956685,-5.3,0</gml:coordinates>
+                    </gml:LineString>
+                  </GeographicLocation>
+                </Location>
+                <AlignmentData>
+                  <HorizontalStraightPath puic="f081fd85-afa5-48d1-a840-f3dfc18aca38" name="part0" startX="497.156685" startY="-5.3000000000125036" endX="498.381685" endY="-5.3" length="1.2250000000000227" angle="-0">
+                    <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                    <VerticalAlignment>
+                      <VerticalStraightPath startM="0" endM="1.225" startZ="0" endZ="0" length="1.2250000000000227" horizontalLength="1.225" angle="0" />
+                    </VerticalAlignment>
+                    <CantValues>
+                      <CantValue startM="0" endM="1.2250000000000227" startValue="0" endValue="0" />
+                    </CantValues>
+                    <DesignSpeedValues>
+                      <DesignSpeedValue startM="0" endM="1.2250000000000227" value="40" />
+                    </DesignSpeedValues>
+                  </HorizontalStraightPath>
+                  <HorizontalStraightPath puic="869c9ed9-ddec-4d68-9cba-4f79ccd202fe" name="part1" startX="498.381685" startY="-5.3" endX="500.956685" endY="-5.2999999999737177" length="2.5749999999999886" angle="-0">
+                    <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                    <VerticalAlignment>
+                      <VerticalStraightPath startM="0" endM="2.575" startZ="0" endZ="0" length="2.5749999999999886" horizontalLength="2.575" angle="0" />
+                    </VerticalAlignment>
+                    <CantValues>
+                      <CantValue startM="0" endM="2.5749999999999886" startValue="0" endValue="0" />
+                    </CantValues>
+                    <DesignSpeedValues>
+                      <DesignSpeedValue startM="0" endM="2.5749999999999886" value="40" />
+                    </DesignSpeedValues>
+                  </HorizontalStraightPath>
+                </AlignmentData>
+              </Passage>
+              <Passage puic="b2c1f078-e8a5-4198-a916-76d424517521" name="L" sideTag="L" unrestricted="False">
+                <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                <Location>
+                  <GeographicLocation dataAcquisitionMethod="Constructed">
+                    <gml:LineString srsName="EPSG:28992">
+                      <gml:coordinates>462.629385,-5.3,0 469.791424,-5.3,0 469.791424,-5.3,0 497.156685,-5.3,0</gml:coordinates>
+                    </gml:LineString>
+                  </GeographicLocation>
+                </Location>
+                <AlignmentData>
+                  <HorizontalStraightPath puic="74f1a2ce-cfe4-48af-b8a0-20681cfce827" name="part0" startX="462.62938456041184" startY="-5.3000000000731022" endX="469.791424" endY="-5.3" length="7.16203943958817" angle="-0">
+                    <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                    <VerticalAlignment>
+                      <VerticalStraightPath startM="0" endM="7.162039439588" startZ="0" endZ="0" length="7.162039439588" horizontalLength="7.162039439588" angle="0" />
+                    </VerticalAlignment>
+                    <CantValues>
+                      <CantValue startM="0" endM="7.16203943958817" startValue="0" endValue="0" />
+                    </CantValues>
+                    <DesignSpeedValues>
+                      <DesignSpeedValue startM="0" endM="7.16203943958817" value="40" />
+                    </DesignSpeedValues>
+                  </HorizontalStraightPath>
+                  <HorizontalStraightPath puic="17828a51-f070-480b-ba90-047133c02a94" name="part1" startX="469.791424" startY="-5.3" endX="497.156685" endY="-5.3000000000125036" length="27.365260999999975" angle="-0">
+                    <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                    <VerticalAlignment>
+                      <VerticalStraightPath startM="0" endM="27.365261" startZ="0" endZ="0" length="27.365260999999975" horizontalLength="27.365261" angle="0" />
+                    </VerticalAlignment>
+                    <CantValues>
+                      <CantValue startM="0" endM="27.365260999999975" startValue="0" endValue="0" />
+                    </CantValues>
+                    <DesignSpeedValues>
+                      <DesignSpeedValue startM="0" endM="27.365260999999975" value="40" />
+                    </DesignSpeedValues>
+                  </HorizontalStraightPath>
+                </AlignmentData>
+              </Passage>
+              <Passage puic="910ff357-8274-4ef9-95d0-c1ca44e27617" name="R" sideTag="R" unrestricted="False">
+                <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                <Location>
+                  <GeographicLocation dataAcquisitionMethod="Constructed">
+                    <gml:LineString srsName="EPSG:28992">
+                      <gml:coordinates>497.156685,-5.3,0 495.840731,-5.28684,0 495.840731,-5.28684,0 493.785941,-5.257846,0 493.785941,-5.257846,0 487.781132,-5.055853,0 481.785396,-4.668961,0 475.804425,-4.097538,0 475.804425,-4.097538,0 469.894683,-3.4409,0 469.894658,-3.440915,0 462.776423,-2.65,0</gml:coordinates>
+                    </gml:LineString>
+                  </GeographicLocation>
+                </Location>
+                <AlignmentData>
+                  <HorizontalStraightPath puic="3f261d5e-1f84-4bb9-9030-6cb9184993dc" name="part0" startX="497.156685" startY="-5.3000000000125036" endX="495.84073079607492" endY="-5.2868404570146748" length="1.31602" angle="3.1315929861747733">
+                    <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                    <VerticalAlignment>
+                      <VerticalStraightPath startM="0" endM="1.31602" startZ="0" endZ="0" length="1.3160199999999946" horizontalLength="1.31602" angle="-0" />
+                    </VerticalAlignment>
+                    <CantValues>
+                      <CantValue startM="0" endM="1.31602" startValue="0" endValue="0" />
+                    </CantValues>
+                    <DesignSpeedValues>
+                      <DesignSpeedValue startM="0" endM="1.31602" value="40" />
+                    </DesignSpeedValues>
+                  </HorizontalStraightPath>
+                  <HorizontalCurve puic="82daad0d-af72-4a78-b018-ee404f34d236" name="part1" startX="495.84073079607492" startY="-5.2868404570146748" endX="493.78594113513407" endY="-5.257846134175935" length="2.055" startAngle="3.1315929861747733" endAngle="3.1233729861747719" radius="250">
+                    <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                    <VerticalAlignment>
+                      <VerticalStraightPath startM="0" endM="2.055" startZ="0" endZ="0" length="2.0550000000000068" horizontalLength="2.055" angle="-0" />
+                    </VerticalAlignment>
+                    <CantValues>
+                      <CantValue startM="0" endM="2.055" startValue="0" endValue="0" />
+                    </CantValues>
+                    <DesignSpeedValues>
+                      <DesignSpeedValue startM="0" endM="2.055" value="40" />
+                    </DesignSpeedValues>
+                  </HorizontalCurve>
+                  <HorizontalCurve puic="5171136a-b033-4ede-99cd-ff50abaa7fbe" name="part2" startX="493.78594113513407" startY="-5.257846134175935" endX="475.80442516130557" endY="-4.0975384626767095" length="18.02533" startAngle="3.1233729861747719" endAngle="3.0309353964311825" radius="195">
+                    <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                    <VerticalAlignment>
+                      <VerticalStraightPath startM="0" endM="18.02533" startZ="0" endZ="0" length="18.025329999999997" horizontalLength="18.02533" angle="-0" />
+                    </VerticalAlignment>
+                    <CantValues>
+                      <CantValue startM="0" endM="18.02533" startValue="0" endValue="0" />
+                    </CantValues>
+                    <DesignSpeedValues>
+                      <DesignSpeedValue startM="0" endM="18.02533" value="40" />
+                    </DesignSpeedValues>
+                  </HorizontalCurve>
+                  <HorizontalStraightPath puic="9a71ece0-986e-40bb-a631-e490f8a8a2b6" name="part3" startX="475.80442516130557" startY="-4.0975384626767095" endX="469.89468317135436" endY="-3.4409002485074214" length="5.94611" angle="3.0309353964311825">
+                    <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                    <VerticalAlignment>
+                      <VerticalStraightPath startM="0" endM="5.94611" startZ="0" endZ="0" length="5.9461099999999973" horizontalLength="5.94611" angle="-0" />
+                    </VerticalAlignment>
+                    <CantValues>
+                      <CantValue startM="0" endM="5.94611" startValue="0" endValue="0" />
+                    </CantValues>
+                    <DesignSpeedValues>
+                      <DesignSpeedValue startM="0" endM="5.94611" value="40" />
+                    </DesignSpeedValues>
+                  </HorizontalStraightPath>
+                  <HorizontalStraightPath puic="c7198897-1551-438e-9f85-ddc5be47cf21" name="part4" startX="469.894658" startY="-3.440915" endX="462.77642349446864" endY="-2.6500000497821197" length="7.1620394395881162" angle="3.0309354316999997">
+                    <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                    <VerticalAlignment>
+                      <VerticalStraightPath startM="0" endM="7.1620394395881" startZ="0" endZ="0" length="7.1620394395880993" horizontalLength="7.1620394395881" angle="-0" />
+                    </VerticalAlignment>
+                    <CantValues>
+                      <CantValue startM="0" endM="7.1620394395881162" startValue="0" endValue="0" />
+                    </CantValues>
+                    <DesignSpeedValues>
+                      <DesignSpeedValue startM="0" endM="7.1620394395881162" value="40" />
+                    </DesignSpeedValues>
+                  </HorizontalStraightPath>
+                </AlignmentData>
+              </Passage>
+              <DivergingPassageRefs>910ff357-8274-4ef9-95d0-c1ca44e27617</DivergingPassageRefs>
+            </SingleSwitch>
+            <SingleSwitch puic="f292b4b4-52c5-4989-9f7f-b9b36654ac35" name="9079" angleRatio="1:9" isReadRedundantly="Unknown">
+              <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+              <Location>
+                <GeographicLocation dataAcquisitionMethod="Constructed">
+                  <gml:Point srsName="EPSG:28992">
+                    <gml:coordinates>55.490612,-5.3,0</gml:coordinates>
+                  </gml:Point>
+                </GeographicLocation>
+              </Location>
+              <MathematicalPoint dataAcquisitionMethod="Constructed">
+                <gml:Point srsName="EPSG:28992">
+                  <gml:coordinates>66.020612,-5.3,0</gml:coordinates>
+                </gml:Point>
+              </MathematicalPoint>
+              <SwitchBlades puic="6d6af515-5b9a-4ad6-8c13-992768b9a3cb" name="A/B" switchCheckerAmount="0">
+                <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                <Location>
+                  <GeographicLocation dataAcquisitionMethod="Constructed">
+                    <gml:Point srsName="EPSG:28992">
+                      <gml:coordinates>55.490612,-5.3,0</gml:coordinates>
+                    </gml:Point>
+                  </GeographicLocation>
+                </Location>
+              </SwitchBlades>
+              <SwitchMechanism puic="546f05ff-bc3c-489c-be74-a4bd9e33362b" name="9079" fixType="Unknown" operatingType="Unknown" normalPosition="Unknown" preferredPosition="Unknown" isSpringSwitch="False">
+                <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                <Location>
+                  <GeographicLocation dataAcquisitionMethod="Photogrammetry">
+                    <gml:Point srsName="EPSG:28992">
+                      <gml:coordinates>55.490612,-5.3,0</gml:coordinates>
+                    </gml:Point>
+                  </GeographicLocation>
+                </Location>
+              </SwitchMechanism>
+              <Passage puic="904caa7f-d25c-439b-8fec-02531980529a" name="V" sideTag="V" unrestricted="False">
+                <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                <Location>
+                  <GeographicLocation dataAcquisitionMethod="Constructed">
+                    <gml:LineString srsName="EPSG:28992">
+                      <gml:coordinates>55.490612,-5.3,0 54.265612,-5.3,0 51.690612,-5.3,0</gml:coordinates>
+                    </gml:LineString>
+                  </GeographicLocation>
+                </Location>
+                <AlignmentData>
+                  <HorizontalStraightPath puic="1a046ddd-404c-454b-88a6-da8d3e518121" name="part0" startX="55.490612" startY="-5.3" endX="54.265612" endY="-5.3" length="1.2250000000000014" angle="3.1415926535897931">
+                    <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                    <VerticalAlignment>
+                      <VerticalStraightPath startM="0" endM="1.225" startZ="0" endZ="0" length="1.2250000000000014" horizontalLength="1.225" angle="-0" />
+                    </VerticalAlignment>
+                    <CantValues>
+                      <CantValue startM="0" endM="1.2250000000000014" startValue="0" endValue="0" />
+                    </CantValues>
+                    <DesignSpeedValues>
+                      <DesignSpeedValue startM="0" endM="1.2250000000000014" value="40" />
+                    </DesignSpeedValues>
+                  </HorizontalStraightPath>
+                  <HorizontalStraightPath puic="12cf6393-5a76-4ff6-9d9a-5e5faa335629" name="part1" startX="54.265612" startY="-5.3" endX="51.690612" endY="-5.3" length="2.5749999999999957" angle="3.1415926535897931">
+                    <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                    <VerticalAlignment>
+                      <VerticalStraightPath startM="0" endM="2.575" startZ="0" endZ="0" length="2.5749999999999957" horizontalLength="2.575" angle="-0" />
+                    </VerticalAlignment>
+                    <CantValues>
+                      <CantValue startM="0" endM="2.5749999999999957" startValue="0" endValue="0" />
+                    </CantValues>
+                    <DesignSpeedValues>
+                      <DesignSpeedValue startM="0" endM="2.5749999999999957" value="40" />
+                    </DesignSpeedValues>
+                  </HorizontalStraightPath>
+                </AlignmentData>
+              </Passage>
+              <Passage puic="a9d5288c-08f6-4d63-aeec-1f73e946e272" name="R" sideTag="R" unrestricted="False">
+                <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                <Location>
+                  <GeographicLocation dataAcquisitionMethod="Constructed">
+                    <gml:LineString srsName="EPSG:28992">
+                      <gml:coordinates>55.490612,-5.3,0 82.855612,-5.3,0 90.017651,-5.3,0</gml:coordinates>
+                    </gml:LineString>
+                  </GeographicLocation>
+                </Location>
+                <AlignmentData>
+                  <HorizontalStraightPath puic="a9b24f36-59f4-43b2-90e6-250069ec3699" name="part0" startX="55.490612" startY="-5.3" endX="82.855612" endY="-5.3" length="27.364999999999995" angle="-0">
+                    <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                    <VerticalAlignment>
+                      <VerticalStraightPath startM="0" endM="27.365" startZ="0" endZ="0" length="27.364999999999995" horizontalLength="27.365" angle="0" />
+                    </VerticalAlignment>
+                    <CantValues>
+                      <CantValue startM="0" endM="27.364999999999995" startValue="0" endValue="0" />
+                    </CantValues>
+                    <DesignSpeedValues>
+                      <DesignSpeedValue startM="0" endM="27.364999999999995" value="40" />
+                    </DesignSpeedValues>
+                  </HorizontalStraightPath>
+                  <HorizontalStraightPath puic="160f4931-d6c6-4c1c-ad77-8e9532c3268e" name="part1" startX="82.855612" startY="-5.3" endX="90.0176514395881" endY="-5.3" length="7.1620394395880993" angle="-0">
+                    <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                    <VerticalAlignment>
+                      <VerticalStraightPath startM="0" endM="7.1620394395881" startZ="0" endZ="0" length="7.1620394395880993" horizontalLength="7.1620394395881" angle="0" />
+                    </VerticalAlignment>
+                    <CantValues>
+                      <CantValue startM="0" endM="7.1620394395880993" startValue="0" endValue="0" />
+                    </CantValues>
+                    <DesignSpeedValues>
+                      <DesignSpeedValue startM="0" endM="7.1620394395880993" value="40" />
+                    </DesignSpeedValues>
+                  </HorizontalStraightPath>
+                </AlignmentData>
+              </Passage>
+              <Passage puic="e174ca04-85dc-4d00-acd3-e5a055181b2b" name="L" sideTag="L" unrestricted="False">
+                <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                <Location>
+                  <GeographicLocation dataAcquisitionMethod="Constructed">
+                    <gml:LineString srsName="EPSG:28992">
+                      <gml:coordinates>89.870874,-2.65,0 82.752639,-3.440915,0 82.752614,-3.4409,0 76.842872,-4.097538,0 76.842872,-4.097538,0 70.861901,-4.668961,0 64.866165,-5.055853,0 58.861356,-5.257846,0 58.861356,-5.257846,0 56.806566,-5.28684,0 56.806566,-5.28684,0 55.490612,-5.3,0</gml:coordinates>
+                    </gml:LineString>
+                  </GeographicLocation>
+                </Location>
+                <AlignmentData>
+                  <HorizontalStraightPath puic="5c30f048-8367-4c14-89d0-0c0c7712bc63" name="part0" startX="89.870873505523278" startY="-2.6500000497094676" endX="82.752639" endY="-3.440915" length="7.1620394395880878" angle="3.2522498754897931">
+                    <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                    <VerticalAlignment>
+                      <VerticalStraightPath startM="0" endM="7.1620394395881" startZ="0" endZ="0" length="7.1620394395881029" horizontalLength="7.1620394395881" angle="-0" />
+                    </VerticalAlignment>
+                    <CantValues>
+                      <CantValue startM="0" endM="7.1620394395880878" startValue="0" endValue="0" />
+                    </CantValues>
+                    <DesignSpeedValues>
+                      <DesignSpeedValue startM="0" endM="7.1620394395880878" value="40" />
+                    </DesignSpeedValues>
+                  </HorizontalStraightPath>
+                  <HorizontalStraightPath puic="a929dba7-c5a0-4356-8b8a-c516e474449f" name="part1" startX="82.752613828626551" startY="-3.4409002482166589" endX="76.842871838682029" endY="-4.0975384624462663" length="5.94611" angle="3.2522499107586107">
+                    <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                    <VerticalAlignment>
+                      <VerticalStraightPath startM="0" endM="5.94611" startZ="0" endZ="0" length="5.9461100000000009" horizontalLength="5.94611" angle="-0" />
+                    </VerticalAlignment>
+                    <CantValues>
+                      <CantValue startM="0" endM="5.94611" startValue="0" endValue="0" />
+                    </CantValues>
+                    <DesignSpeedValues>
+                      <DesignSpeedValue startM="0" endM="5.94611" value="40" />
+                    </DesignSpeedValues>
+                  </HorizontalStraightPath>
+                  <HorizontalCurve puic="46ef7f07-45a7-4d2e-8713-46a597e37cb5" name="part2" startX="76.842871838682029" startY="-4.0975384624462663" endX="58.861355864865423" endY="-5.2578461341290108" length="18.02533" startAngle="3.2522499107586107" endAngle="3.1598123210150209" radius="195">
+                    <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                    <VerticalAlignment>
+                      <VerticalStraightPath startM="0" endM="18.02533" startZ="0" endZ="0" length="18.02533" horizontalLength="18.02533" angle="-0" />
+                    </VerticalAlignment>
+                    <CantValues>
+                      <CantValue startM="0" endM="18.02533" startValue="0" endValue="0" />
+                    </CantValues>
+                    <DesignSpeedValues>
+                      <DesignSpeedValue startM="0" endM="18.02533" value="40" />
+                    </DesignSpeedValues>
+                  </HorizontalCurve>
+                  <HorizontalCurve puic="657bfa58-1572-4758-b4a7-288bf73c6375" name="part3" startX="58.861355864865423" startY="-5.2578461341290108" endX="56.806566203924945" endY="-5.2868404569887391" length="2.055" startAngle="3.1598123210150209" endAngle="3.1515923210150207" radius="250">
+                    <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                    <VerticalAlignment>
+                      <VerticalStraightPath startM="0" endM="2.055" startZ="0" endZ="0" length="2.055" horizontalLength="2.055" angle="-0" />
+                    </VerticalAlignment>
+                    <CantValues>
+                      <CantValue startM="0" endM="2.055" startValue="0" endValue="0" />
+                    </CantValues>
+                    <DesignSpeedValues>
+                      <DesignSpeedValue startM="0" endM="2.055" value="40" />
+                    </DesignSpeedValues>
+                  </HorizontalCurve>
+                  <HorizontalStraightPath puic="7296a52d-76cd-4a30-ba25-903a2a3479fd" name="part4" startX="56.806566203924945" startY="-5.2868404569887391" endX="55.490612" endY="-5.3" length="1.31602" angle="3.1515923210150207">
+                    <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                    <VerticalAlignment>
+                      <VerticalStraightPath startM="0" endM="1.31602" startZ="0" endZ="0" length="1.31602" horizontalLength="1.31602" angle="-0" />
+                    </VerticalAlignment>
+                    <CantValues>
+                      <CantValue startM="0" endM="1.31602" startValue="0" endValue="0" />
+                    </CantValues>
+                    <DesignSpeedValues>
+                      <DesignSpeedValue startM="0" endM="1.31602" value="40" />
+                    </DesignSpeedValues>
+                  </HorizontalStraightPath>
+                </AlignmentData>
+              </Passage>
+              <DivergingPassageRefs>e174ca04-85dc-4d00-acd3-e5a055181b2b</DivergingPassageRefs>
+            </SingleSwitch>
+            <SingleSwitch puic="34ece0aa-e0e0-4048-92ae-7835b39bec49" name="9081" angleRatio="1:9" isReadRedundantly="Unknown">
+              <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+              <Location>
+                <GeographicLocation dataAcquisitionMethod="Constructed">
+                  <gml:Point srsName="EPSG:28992">
+                    <gml:coordinates>124.251135,0,0</gml:coordinates>
+                  </gml:Point>
+                </GeographicLocation>
+              </Location>
+              <MathematicalPoint dataAcquisitionMethod="Constructed">
+                <gml:Point srsName="EPSG:28992">
+                  <gml:coordinates>113.721135,0,0</gml:coordinates>
+                </gml:Point>
+              </MathematicalPoint>
+              <SwitchBlades puic="5b56b297-340f-4b35-a699-5d78b1b7919d" name="A/B" switchCheckerAmount="0">
+                <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                <Location>
+                  <GeographicLocation dataAcquisitionMethod="Constructed">
+                    <gml:Point srsName="EPSG:28992">
+                      <gml:coordinates>124.251135,0,0</gml:coordinates>
+                    </gml:Point>
+                  </GeographicLocation>
+                </Location>
+              </SwitchBlades>
+              <SwitchMechanism puic="26f6e357-3c5d-4c2b-a3d1-37e8d97c76e8" name="9081" fixType="Unknown" operatingType="Unknown" normalPosition="Unknown" preferredPosition="Unknown" isSpringSwitch="False">
+                <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                <Location>
+                  <GeographicLocation dataAcquisitionMethod="Photogrammetry">
+                    <gml:Point srsName="EPSG:28992">
+                      <gml:coordinates>124.251135,0,0</gml:coordinates>
+                    </gml:Point>
+                  </GeographicLocation>
+                </Location>
+              </SwitchMechanism>
+              <Passage puic="e9acd229-83cd-48d8-9e75-329979f4d8f5" name="V" sideTag="V" unrestricted="False">
+                <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                <Location>
+                  <GeographicLocation dataAcquisitionMethod="Constructed">
+                    <gml:LineString srsName="EPSG:28992">
+                      <gml:coordinates>124.251135,0,0 125.476135,0,0 125.476135,0,0 128.051135,0,0</gml:coordinates>
+                    </gml:LineString>
+                  </GeographicLocation>
+                </Location>
+                <AlignmentData>
+                  <HorizontalStraightPath puic="66a9d51c-ebc6-481b-9564-29de4bd8c0b0" name="part0" startX="124.251135" startY="-1.2503359324734163E-11" endX="125.476135" endY="0" length="1.2249999999999943" angle="-0">
+                    <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                    <VerticalAlignment>
+                      <VerticalStraightPath startM="0" endM="1.225" startZ="0" endZ="0" length="1.2249999999999943" horizontalLength="1.225" angle="0" />
+                    </VerticalAlignment>
+                    <CantValues>
+                      <CantValue startM="0" endM="1.2249999999999943" startValue="0" endValue="0" />
+                    </CantValues>
+                    <DesignSpeedValues>
+                      <DesignSpeedValue startM="0" endM="1.2249999999999943" value="40" />
+                    </DesignSpeedValues>
+                  </HorizontalStraightPath>
+                  <HorizontalStraightPath puic="0af1419b-884f-4382-b55f-cb470198f8f6" name="part1" startX="125.476135" startY="0" endX="128.051135" endY="2.6282571641788137E-11" length="2.5749999999999886" angle="-0">
+                    <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                    <VerticalAlignment>
+                      <VerticalStraightPath startM="0" endM="2.575" startZ="0" endZ="0" length="2.5749999999999886" horizontalLength="2.575" angle="0" />
+                    </VerticalAlignment>
+                    <CantValues>
+                      <CantValue startM="0" endM="2.5749999999999886" startValue="0" endValue="0" />
+                    </CantValues>
+                    <DesignSpeedValues>
+                      <DesignSpeedValue startM="0" endM="2.5749999999999886" value="40" />
+                    </DesignSpeedValues>
+                  </HorizontalStraightPath>
+                </AlignmentData>
+              </Passage>
+              <Passage puic="46eb45ba-da94-43de-b484-4da31967be3c" name="R" sideTag="R" unrestricted="False">
+                <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                <Location>
+                  <GeographicLocation dataAcquisitionMethod="Constructed">
+                    <gml:LineString srsName="EPSG:28992">
+                      <gml:coordinates>124.251135,0,0 96.886135,0,0 96.886135,0,0 89.724096,0,0</gml:coordinates>
+                    </gml:LineString>
+                  </GeographicLocation>
+                </Location>
+                <AlignmentData>
+                  <HorizontalStraightPath puic="a8935765-3f45-4562-8438-be24f675521d" name="part0" startX="124.251135" startY="-1.2503359324734163E-11" endX="96.886135" endY="0" length="27.365000000000009" angle="3.1415926535897931">
+                    <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                    <VerticalAlignment>
+                      <VerticalStraightPath startM="0" endM="27.365" startZ="0" endZ="0" length="27.365000000000009" horizontalLength="27.365" angle="-0" />
+                    </VerticalAlignment>
+                    <CantValues>
+                      <CantValue startM="0" endM="27.365000000000009" startValue="0" endValue="0" />
+                    </CantValues>
+                    <DesignSpeedValues>
+                      <DesignSpeedValue startM="0" endM="27.365000000000009" value="40" />
+                    </DesignSpeedValues>
+                  </HorizontalStraightPath>
+                  <HorizontalStraightPath puic="9c409430-b048-4338-9450-7b3532e33ae1" name="part1" startX="96.886135" startY="0" endX="89.724095560411911" endY="-7.310167560088782E-11" length="7.1620394395880851" angle="3.1415926535897931">
+                    <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                    <VerticalAlignment>
+                      <VerticalStraightPath startM="0" endM="7.1620394395881" startZ="0" endZ="0" length="7.1620394395880993" horizontalLength="7.1620394395881" angle="-0" />
+                    </VerticalAlignment>
+                    <CantValues>
+                      <CantValue startM="0" endM="7.1620394395880851" startValue="0" endValue="0" />
+                    </CantValues>
+                    <DesignSpeedValues>
+                      <DesignSpeedValue startM="0" endM="7.1620394395880851" value="40" />
+                    </DesignSpeedValues>
+                  </HorizontalStraightPath>
+                </AlignmentData>
+              </Passage>
+              <Passage puic="707201f6-852c-4f99-83a0-0b86346bccdd" name="L" sideTag="L" unrestricted="False">
+                <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                <Location>
+                  <GeographicLocation dataAcquisitionMethod="Constructed">
+                    <gml:LineString srsName="EPSG:28992">
+                      <gml:coordinates>124.251135,0,0 122.935181,-0.01316,0 122.935181,-0.01316,0 120.880391,-0.042154,0 120.880391,-0.042154,0 114.875582,-0.244147,0 108.879846,-0.631039,0 102.898875,-1.202462,0 96.989133,-1.8591,0 96.989108,-1.859085,0 89.870873,-2.65,0</gml:coordinates>
+                    </gml:LineString>
+                  </GeographicLocation>
+                </Location>
+                <AlignmentData>
+                  <HorizontalStraightPath puic="8cc26248-871a-46e4-9896-5f09db7cb407" name="part0" startX="124.251135" startY="-1.2503359324734163E-11" endX="122.9351807960752" endY="-0.013159543037195982" length="1.31602" angle="3.1515923210252277">
+                    <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                    <VerticalAlignment>
+                      <VerticalStraightPath startM="0" endM="1.31602" startZ="0" endZ="0" length="1.3160199999999946" horizontalLength="1.31602" angle="-0" />
+                    </VerticalAlignment>
+                    <CantValues>
+                      <CantValue startM="0" endM="1.31602" startValue="0" endValue="0" />
+                    </CantValues>
+                    <DesignSpeedValues>
+                      <DesignSpeedValue startM="0" endM="1.31602" value="40" />
+                    </DesignSpeedValues>
+                  </HorizontalStraightPath>
+                  <HorizontalCurve puic="40cf319a-0916-47c6-9ce4-fbf1cfe129a5" name="part1" startX="122.9351807960752" startY="-0.013159543037195982" endX="120.88039113513496" endY="-0.042153865917867961" length="2.055" startAngle="3.1515923210252277" endAngle="3.1598123210252282" radius="-250">
+                    <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                    <VerticalAlignment>
+                      <VerticalStraightPath startM="0" endM="2.055" startZ="0" endZ="0" length="2.0550000000000068" horizontalLength="2.055" angle="-0" />
+                    </VerticalAlignment>
+                    <CantValues>
+                      <CantValue startM="0" endM="2.055" startValue="0" endValue="0" />
+                    </CantValues>
+                    <DesignSpeedValues>
+                      <DesignSpeedValue startM="0" endM="2.055" value="40" />
+                    </DesignSpeedValues>
+                  </HorizontalCurve>
+                  <HorizontalCurve puic="8b0ff06b-5f32-4aa7-898b-4053d17b7303" name="part2" startX="120.88039113513496" startY="-0.042153865917867961" endX="102.89887516133028" endY="-1.2024615377841315" length="18.02533" startAngle="3.1598123210252282" endAngle="3.2522499107688176" radius="-195">
+                    <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                    <VerticalAlignment>
+                      <VerticalStraightPath startM="0" endM="18.02533" startZ="0" endZ="0" length="18.025329999999997" horizontalLength="18.02533" angle="-0" />
+                    </VerticalAlignment>
+                    <CantValues>
+                      <CantValue startM="0" endM="18.02533" startValue="0" endValue="0" />
+                    </CantValues>
+                    <DesignSpeedValues>
+                      <DesignSpeedValue startM="0" endM="18.02533" value="40" />
+                    </DesignSpeedValues>
+                  </HorizontalCurve>
+                  <HorizontalStraightPath puic="ca2214b4-85ca-4bc9-9920-3760eb1f7932" name="part3" startX="102.89887516133028" startY="-1.2024615377841315" endX="96.989133171392467" endY="-1.8590997520740589" length="5.94611" angle="3.2522499107688176">
+                    <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                    <VerticalAlignment>
+                      <VerticalStraightPath startM="0" endM="5.94611" startZ="0" endZ="0" length="5.9461099999999973" horizontalLength="5.94611" angle="-0" />
+                    </VerticalAlignment>
+                    <CantValues>
+                      <CantValue startM="0" endM="5.94611" startValue="0" endValue="0" />
+                    </CantValues>
+                    <DesignSpeedValues>
+                      <DesignSpeedValue startM="0" endM="5.94611" value="40" />
+                    </DesignSpeedValues>
+                  </HorizontalStraightPath>
+                  <HorizontalStraightPath puic="6da4504c-525c-4ea9-ba29-ff0e2a710e85" name="part4" startX="96.989108" startY="-1.859085" endX="89.8708734944848" endY="-2.6499999503631866" length="7.1620394395880878" angle="3.2522498755000004">
+                    <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                    <VerticalAlignment>
+                      <VerticalStraightPath startM="0" endM="7.1620394395881" startZ="0" endZ="0" length="7.1620394395880993" horizontalLength="7.1620394395881" angle="-0" />
+                    </VerticalAlignment>
+                    <CantValues>
+                      <CantValue startM="0" endM="7.1620394395880878" startValue="0" endValue="0" />
+                    </CantValues>
+                    <DesignSpeedValues>
+                      <DesignSpeedValue startM="0" endM="7.1620394395880878" value="40" />
+                    </DesignSpeedValues>
+                  </HorizontalStraightPath>
+                </AlignmentData>
+              </Passage>
+              <DivergingPassageRefs>707201f6-852c-4f99-83a0-0b86346bccdd</DivergingPassageRefs>
+            </SingleSwitch>
+            <BufferStop puic="3efa22ef-705e-4c09-add0-54932958a486" name="SJ_9079V" signRef="6dcefb5a-518a-4873-96ab-9a1ee98fc666">
+              <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+              <Location>
+                <GeographicLocation dataAcquisitionMethod="Design" azimuth="180" accuracy="283">
+                  <gml:Point srsName="EPSG:28992">
+                    <gml:coordinates>0,-5.3,0</gml:coordinates>
+                  </gml:Point>
+                </GeographicLocation>
+              </Location>
+            </BufferStop>
+            <BufferStop puic="a7fcd88b-79bd-4343-a04c-0d1006026b08" name="SJ_9087R" signRef="398216a0-3f8f-4ce1-9292-c5b36fc8f6d7">
+              <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+              <Location>
+                <GeographicLocation dataAcquisitionMethod="Design" azimuth="0" accuracy="283">
+                  <gml:Point srsName="EPSG:28992">
+                    <gml:coordinates>1000,-5.3,0</gml:coordinates>
+                  </gml:Point>
+                </GeographicLocation>
+              </Location>
+            </BufferStop>
+            <BufferStop puic="0ee03782-d084-40fb-8858-b3dd3ab52eb9" name="SJ_9081R" signRef="09442bb8-0970-469c-8a6d-f4ae21cb9a7e">
+              <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+              <Location>
+                <GeographicLocation dataAcquisitionMethod="Design" azimuth="180" accuracy="283">
+                  <gml:Point srsName="EPSG:28992">
+                    <gml:coordinates>0,0,0</gml:coordinates>
+                  </gml:Point>
+                </GeographicLocation>
+              </Location>
+            </BufferStop>
+            <BufferStop puic="5d066f5f-f819-4d83-90ee-32354e60e819" name="SJ_9089V" signRef="d875615f-c54c-4ed6-b017-fa5fea667186">
+              <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+              <Location>
+                <GeographicLocation dataAcquisitionMethod="Design" azimuth="0" accuracy="283">
+                  <gml:Point srsName="EPSG:28992">
+                    <gml:coordinates>1000,0,0</gml:coordinates>
+                  </gml:Point>
+                </GeographicLocation>
+              </Location>
+            </BufferStop>
+          </Junctions>
+          <Tracks>
+            <Track puic="d200f1bd-bd1d-47be-95b6-78e20731aba4" name="9079V">
+              <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+              <Location>
+                <GeographicLocation dataAcquisitionMethod="Constructed">
+                  <gml:LineString srsName="EPSG:28992">
+                    <gml:coordinates>51.690612,-5.3,0 0,-5.3,0</gml:coordinates>
+                  </gml:LineString>
+                </GeographicLocation>
+              </Location>
+              <AlignmentData>
+                <HorizontalStraightPath puic="3a28eb4a-43ed-4c00-8265-c0f57ba217e1" name="part0" startX="51.690612" startY="-5.3" endX="0" endY="-5.3" length="51.690612" angle="3.1415926535897931">
+                  <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                  <VerticalAlignment>
+                    <VerticalStraightPath startM="0" endM="51.690612" startZ="0" endZ="0" length="51.690612" horizontalLength="51.690612" angle="-0" />
+                  </VerticalAlignment>
+                  <CantValues>
+                    <CantValue startM="0" endM="51.690612" startValue="0" endValue="0" />
+                  </CantValues>
+                  <DesignSpeedValues>
+                    <DesignSpeedValue startM="0" endM="51.690612" value="40" />
+                  </DesignSpeedValues>
+                </HorizontalStraightPath>
+              </AlignmentData>
+            </Track>
+            <Track puic="7417cb26-7583-457d-a434-957066adc9f1" name="9079R">
+              <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+              <Location>
+                <GeographicLocation dataAcquisitionMethod="Constructed">
+                  <gml:LineString srsName="EPSG:28992">
+                    <gml:coordinates>90.017651,-5.3,0 462.629385,-5.3,0</gml:coordinates>
+                  </gml:LineString>
+                </GeographicLocation>
+              </Location>
+              <AlignmentData>
+                <HorizontalStraightPath puic="d0f1d1b2-47da-4a0c-8744-c0ed6e64fde6" name="part0" startX="90.0176514395881" startY="-5.3" endX="462.62938456041184" endY="-5.3000000000731022" length="372.61173312082371" angle="-0">
+                  <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                  <VerticalAlignment>
+                    <VerticalStraightPath startM="0" endM="372.61173312082389" startZ="0" endZ="0" length="372.61173312082394" horizontalLength="372.61173312082389" angle="0" />
+                  </VerticalAlignment>
+                  <CantValues>
+                    <CantValue startM="0" endM="372.61173312082371" startValue="0" endValue="0" />
+                  </CantValues>
+                  <DesignSpeedValues>
+                    <DesignSpeedValue startM="0" endM="372.61173312082371" value="40" />
+                  </DesignSpeedValues>
+                </HorizontalStraightPath>
+              </AlignmentData>
+            </Track>
+            <Track puic="3d8e909e-63a4-4661-a950-0184258adc2a" name="9085V">
+              <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+              <Location>
+                <GeographicLocation dataAcquisitionMethod="Constructed">
+                  <gml:LineString srsName="EPSG:28992">
+                    <gml:coordinates>500.956685,-5.3,0 799.337927,-5.3,0</gml:coordinates>
+                  </gml:LineString>
+                </GeographicLocation>
+              </Location>
+              <AlignmentData>
+                <HorizontalStraightPath puic="f59154b9-9502-41ce-ad4d-3bbb3adf6c47" name="part0" startX="500.956685" startY="-5.2999999999737177" endX="799.337927" endY="-5.3" length="298.38124200000004" angle="-0">
+                  <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                  <VerticalAlignment>
+                    <VerticalStraightPath startM="0" endM="298.381242" startZ="0" endZ="0" length="298.38124200000004" horizontalLength="298.381242" angle="0" />
+                  </VerticalAlignment>
+                  <CantValues>
+                    <CantValue startM="0" endM="298.38124200000004" startValue="0" endValue="0" />
+                  </CantValues>
+                  <DesignSpeedValues>
+                    <DesignSpeedValue startM="0" endM="298.38124200000004" value="40" />
+                  </DesignSpeedValues>
+                </HorizontalStraightPath>
+              </AlignmentData>
+            </Track>
+            <Track puic="6d12eed5-624c-4c75-ab3e-1e5c719d7df0" name="9087R">
+              <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+              <Location>
+                <GeographicLocation dataAcquisitionMethod="Constructed">
+                  <gml:LineString srsName="EPSG:28992">
+                    <gml:coordinates>837.664966,-5.3,0 1000,-5.3,0</gml:coordinates>
+                  </gml:LineString>
+                </GeographicLocation>
+              </Location>
+              <AlignmentData>
+                <HorizontalStraightPath puic="707f1e11-cbda-459c-913a-d4ad3e804da9" name="part0" startX="837.664966439588" startY="-5.3" endX="1000" endY="-5.3" length="162.33503356041194" angle="-0">
+                  <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                  <VerticalAlignment>
+                    <VerticalStraightPath startM="0" endM="162.335033560412" startZ="0" endZ="0" length="162.33503356041194" horizontalLength="162.335033560412" angle="0" />
+                  </VerticalAlignment>
+                  <CantValues>
+                    <CantValue startM="0" endM="162.33503356041194" startValue="0" endValue="0" />
+                  </CantValues>
+                  <DesignSpeedValues>
+                    <DesignSpeedValue startM="0" endM="162.33503356041194" value="40" />
+                  </DesignSpeedValues>
+                </HorizontalStraightPath>
+              </AlignmentData>
+            </Track>
+            <Track puic="e3698cc9-febf-4b46-8dec-e12109ddddda" name="9081R">
+              <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+              <Location>
+                <GeographicLocation dataAcquisitionMethod="Constructed">
+                  <gml:LineString srsName="EPSG:28992">
+                    <gml:coordinates>89.724096,0,0 0,0,0</gml:coordinates>
+                  </gml:LineString>
+                </GeographicLocation>
+              </Location>
+              <AlignmentData>
+                <HorizontalStraightPath puic="0bd4d492-8d87-4d54-a641-f4c5908c7384" name="part0" startX="89.724095560411911" startY="-7.310167560088782E-11" endX="0" endY="0" length="89.724095560411911" angle="3.1415926535897931">
+                  <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                  <VerticalAlignment>
+                    <VerticalStraightPath startM="0" endM="89.7240955604119" startZ="0" endZ="0" length="89.7240955604119" horizontalLength="89.7240955604119" angle="-0" />
+                  </VerticalAlignment>
+                  <CantValues>
+                    <CantValue startM="0" endM="89.724095560411911" startValue="0" endValue="0" />
+                  </CantValues>
+                  <DesignSpeedValues>
+                    <DesignSpeedValue startM="0" endM="89.724095560411911" value="40" />
+                  </DesignSpeedValues>
+                </HorizontalStraightPath>
+              </AlignmentData>
+            </Track>
+            <Track puic="32cd004c-11da-43d7-bc19-6dea9447db86" name="9081V">
+              <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+              <Location>
+                <GeographicLocation dataAcquisitionMethod="Constructed">
+                  <gml:LineString srsName="EPSG:28992">
+                    <gml:coordinates>128.051135,0,0 424.596162,0,0</gml:coordinates>
+                  </gml:LineString>
+                </GeographicLocation>
+              </Location>
+              <AlignmentData>
+                <HorizontalStraightPath puic="837ef57c-c1a3-4af8-a8e9-5748f1fe905e" name="part0" startX="128.051135" startY="2.6282571641788137E-11" endX="424.596162" endY="0" length="296.545027" angle="-0">
+                  <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                  <VerticalAlignment>
+                    <VerticalStraightPath startM="0" endM="296.545027" startZ="0" endZ="0" length="296.545027" horizontalLength="296.545027" angle="0" />
+                  </VerticalAlignment>
+                  <CantValues>
+                    <CantValue startM="0" endM="296.545027" startValue="0" endValue="0" />
+                  </CantValues>
+                  <DesignSpeedValues>
+                    <DesignSpeedValue startM="0" endM="296.545027" value="40" />
+                  </DesignSpeedValues>
+                </HorizontalStraightPath>
+              </AlignmentData>
+            </Track>
+            <Track puic="cb380ce4-2e68-4a1b-b774-1979339a255e" name="9083L">
+              <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+              <Location>
+                <GeographicLocation dataAcquisitionMethod="Constructed">
+                  <gml:LineString srsName="EPSG:28992">
+                    <gml:coordinates>462.923462,0,0 541.667245,0,0 558.331598,0,-0.138859960400036 571.668402,0,-0.361140039599964 588.332755,0,-0.5 741.667245,0,-0.5 758.331598,0,-0.361140039599964 771.668402,0,-0.138859960400036 788.332755,0,0 837.371411,0,0</gml:coordinates>
+                  </gml:LineString>
+                </GeographicLocation>
+              </Location>
+              <AlignmentData>
+                <HorizontalStraightPath puic="fb386c3b-7420-41d1-abc8-96b86c570601" name="part0" startX="462.92346243958809" startY="0" endX="837.37141056041185" endY="-7.3101675600888647E-11" length="374.44794812082375" angle="-0">
+                  <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                  <VerticalAlignment>
+                    <VerticalStraightPath startM="0" endM="374.447948120824" startZ="0" endZ="0" length="374.447948120824" horizontalLength="374.447948120824" angle="0" />
+                  </VerticalAlignment>
+                  <CantValues>
+                    <CantValue startM="0" endM="374.44794812082375" startValue="0" endValue="0" />
+                  </CantValues>
+                  <DesignSpeedValues>
+                    <DesignSpeedValue startM="0" endM="374.44794812082375" value="40" />
+                  </DesignSpeedValues>
+                </HorizontalStraightPath>
+              </AlignmentData>
+            </Track>
+            <Track puic="cd9e8a2b-d012-4af0-a4c4-fb3889219844" name="9089V">
+              <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+              <Location>
+                <GeographicLocation dataAcquisitionMethod="Constructed">
+                  <gml:LineString srsName="EPSG:28992">
+                    <gml:coordinates>875.69845,0,0 1000,0,0</gml:coordinates>
+                  </gml:LineString>
+                </GeographicLocation>
+              </Location>
+              <AlignmentData>
+                <HorizontalStraightPath puic="ab2e8472-60ff-4e62-9870-9d89a7d59e71" name="part0" startX="875.69845" startY="2.6282571641788137E-11" endX="1000" endY="0" length="124.30155000000002" angle="-0">
+                  <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+                  <VerticalAlignment>
+                    <VerticalStraightPath startM="0" endM="124.30155" startZ="0" endZ="0" length="124.30155000000002" horizontalLength="124.30155" angle="0" />
+                  </VerticalAlignment>
+                  <CantValues>
+                    <CantValue startM="0" endM="124.30155000000002" startValue="0" endValue="0" />
+                  </CantValues>
+                  <DesignSpeedValues>
+                    <DesignSpeedValue startM="0" endM="124.30155000000002" value="40" />
+                  </DesignSpeedValues>
+                </HorizontalStraightPath>
+              </AlignmentData>
+            </Track>
+          </Tracks>
+          <RailConnections>
+            <RailConnection puic="f0f9f0b6-0aff-4db8-a351-60b931ff2d12" name="9079V" trackRef="d200f1bd-bd1d-47be-95b6-78e20731aba4" voltageClass="Unknown" isElectrified="Unknown" hasInterlocking="Unknown" isSafetyTrack="False" trainType="Unknown">
+              <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+              <PassageRefs>904caa7f-d25c-439b-8fec-02531980529a</PassageRefs>
+            </RailConnection>
+            <RailConnection puic="c4606dbc-8a44-4c0e-b35d-dd20241de616" name="9079R" trackRef="7417cb26-7583-457d-a434-957066adc9f1" voltageClass="Unknown" isElectrified="Unknown" hasInterlocking="Unknown" isSafetyTrack="False" trainType="Unknown">
+              <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+              <PassageRefs>a9d5288c-08f6-4d63-aeec-1f73e946e272 b2c1f078-e8a5-4198-a916-76d424517521</PassageRefs>
+            </RailConnection>
+            <RailConnection puic="2aa889d0-27ac-46ee-a27e-451a25246a40" name="9085V" trackRef="3d8e909e-63a4-4661-a950-0184258adc2a" voltageClass="Unknown" isElectrified="Unknown" hasInterlocking="Unknown" isSafetyTrack="False" trainType="Unknown">
+              <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+              <PassageRefs>9c52d87c-7cba-489f-a026-2b5fa04b558d a7988ec7-63ba-4bf0-b7c8-746e012f4a18</PassageRefs>
+            </RailConnection>
+            <RailConnection puic="a3cdae04-db03-4575-a8c0-123856483842" name="9087R" trackRef="6d12eed5-624c-4c75-ab3e-1e5c719d7df0" voltageClass="Unknown" isElectrified="Unknown" hasInterlocking="Unknown" isSafetyTrack="False" trainType="Unknown">
+              <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+              <PassageRefs>3a0b5c59-0bf3-4d8c-859b-66e3cd5cc661</PassageRefs>
+            </RailConnection>
+            <RailConnection puic="5483b51e-1ccb-4680-869d-d71497b47861" name="9081R" trackRef="e3698cc9-febf-4b46-8dec-e12109ddddda" voltageClass="Unknown" isElectrified="Unknown" hasInterlocking="Unknown" isSafetyTrack="False" trainType="Unknown">
+              <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+              <PassageRefs>46eb45ba-da94-43de-b484-4da31967be3c</PassageRefs>
+            </RailConnection>
+            <RailConnection puic="2dfb9ed5-cecd-4f01-aa02-3a3b616f521f" name="9081V" trackRef="32cd004c-11da-43d7-bc19-6dea9447db86" voltageClass="Unknown" isElectrified="Unknown" hasInterlocking="Unknown" isSafetyTrack="False" trainType="Unknown">
+              <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+              <PassageRefs>e9acd229-83cd-48d8-9e75-329979f4d8f5 d54a0bbc-e68a-48b0-81cf-1a2e59e651aa</PassageRefs>
+            </RailConnection>
+            <RailConnection puic="95fd5f0a-8d61-4217-94a3-5f8e03bc80a5" name="9083L" trackRef="cb380ce4-2e68-4a1b-b774-1979339a255e" voltageClass="Unknown" isElectrified="Unknown" hasInterlocking="Unknown" isSafetyTrack="False" trainType="Unknown">
+              <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+              <PassageRefs>1bd900fd-1eb0-44f0-95ec-7fe04ac912c1 c2a88de4-5fea-46b7-b892-ad0b24311840</PassageRefs>
+            </RailConnection>
+            <RailConnection puic="a070fdca-2989-49f0-8509-02dcdd5158b4" name="9089V" trackRef="cd9e8a2b-d012-4af0-a4c4-fb3889219844" voltageClass="Unknown" isElectrified="Unknown" hasInterlocking="Unknown" isSafetyTrack="False" trainType="Unknown">
+              <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+              <PassageRefs>42944c82-3669-4bc7-b85b-e10c06b0f54f</PassageRefs>
+            </RailConnection>
+            <RailConnection puic="0c7f8b71-1790-4a49-b2db-ca4f286a85af" name="9079L" voltageClass="Unknown" isElectrified="Unknown" hasInterlocking="Unknown" isSafetyTrack="False" trainType="Unknown">
+              <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+              <PassageRefs>e174ca04-85dc-4d00-acd3-e5a055181b2b 707201f6-852c-4f99-83a0-0b86346bccdd</PassageRefs>
+            </RailConnection>
+            <RailConnection puic="4703168d-6e98-4921-8c36-4471e992e1b5" name="9083R" voltageClass="Unknown" isElectrified="Unknown" hasInterlocking="Unknown" isSafetyTrack="False" trainType="Unknown">
+              <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+              <PassageRefs>35884ad3-6eec-4355-a426-a5f76d52b2a1 910ff357-8274-4ef9-95d0-c1ca44e27617</PassageRefs>
+            </RailConnection>
+            <RailConnection puic="c8ece621-bece-4b2c-82c1-a18a3541db84" name="9087L" voltageClass="Unknown" isElectrified="Unknown" hasInterlocking="Unknown" isSafetyTrack="False" trainType="Unknown">
+              <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+              <PassageRefs>a78a0ac3-a075-49a8-a461-25a5d591ed2a b16d5caa-0e4b-4c1d-9036-93167fdde2ce</PassageRefs>
+            </RailConnection>
+          </RailConnections>
+        </RailImplementation>
+        <TrackAssets>
+          <Signs>
+            <Sign puic="6dcefb5a-518a-4873-96ab-9a1ee98fc666" signType="LanternStop" hasArrowMarker="False" hasLamp="False">
+              <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+              <Location>
+                <GeographicLocation dataAcquisitionMethod="Design" azimuth="180">
+                  <gml:Point srsName="EPSG:28992">
+                    <gml:coordinates>0,-5.3,0</gml:coordinates>
+                  </gml:Point>
+                </GeographicLocation>
+              </Location>
+              <RailConnectionInfo railConnectionRef="f0f9f0b6-0aff-4db8-a351-60b931ff2d12" direction="Downstream" atMeasure="55.490612" />
+            </Sign>
+            <Sign puic="398216a0-3f8f-4ce1-9292-c5b36fc8f6d7" signType="LanternStop" hasArrowMarker="False" hasLamp="False">
+              <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+              <Location>
+                <GeographicLocation dataAcquisitionMethod="Design" azimuth="0">
+                  <gml:Point srsName="EPSG:28992">
+                    <gml:coordinates>1000,-5.3,0</gml:coordinates>
+                  </gml:Point>
+                </GeographicLocation>
+              </Location>
+              <RailConnectionInfo railConnectionRef="a3cdae04-db03-4575-a8c0-123856483842" direction="Downstream" atMeasure="196.83953300000002" />
+            </Sign>
+            <Sign puic="09442bb8-0970-469c-8a6d-f4ae21cb9a7e" signType="LanternStop" hasArrowMarker="False" hasLamp="False">
+              <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+              <Location>
+                <GeographicLocation dataAcquisitionMethod="Design" azimuth="180">
+                  <gml:Point srsName="EPSG:28992">
+                    <gml:coordinates>0,0,0</gml:coordinates>
+                  </gml:Point>
+                </GeographicLocation>
+              </Location>
+              <RailConnectionInfo railConnectionRef="5483b51e-1ccb-4680-869d-d71497b47861" direction="Downstream" atMeasure="124.228595" />
+            </Sign>
+            <Sign puic="d875615f-c54c-4ed6-b017-fa5fea667186" signType="LanternStop" hasArrowMarker="False" hasLamp="False">
+              <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
+              <Location>
+                <GeographicLocation dataAcquisitionMethod="Design" azimuth="0">
+                  <gml:Point srsName="EPSG:28992">
+                    <gml:coordinates>1000,0,0</gml:coordinates>
+                  </gml:Point>
+                </GeographicLocation>
+              </Location>
+              <RailConnectionInfo railConnectionRef="a070fdca-2989-49f0-8509-02dcdd5158b4" direction="Downstream" atMeasure="128.10155000000003" />
+            </Sign>
+          </Signs>
+        </TrackAssets>
+      </RailInfrastructure>
+      <Groupings />
+      <Extensions />
+    </InitialSituation>
+    <SituationChanges />
+  </Project>
+</ImSpoor>
