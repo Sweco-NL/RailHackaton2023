@@ -32,7 +32,7 @@ Tot nu toe hebben hoefde er alleen maar gekeken worden naar de spoorligging. Ech
 Figuur 3 – Casus 1c
 
 Casus 2
-Casus 2 lijkt in veel gevallen op casus 1C, maar nu is door een ander project ook een wissel toegevoegd tussen onze wissels 9083 en 9089. We beschouwen in dit geval dat andere project als Init2. De objecten langs het spoor moeten worden geprojecteerd op de nieuwe spoorassen, rekening houdend met de verschuiving van de spooras. Denk na over mogelijk nieuwe coordinaten voor objecten, richtingen van spoortakken, en atmeasures van objecten.
+Casus 2 lijkt in veel gevallen op casus 1C, maar nu is door een ander project ook een wissel toegevoegd tussen onze wissels 9083 en 9089. We beschouwen in dit geval dat andere project als Init2. De objecten langs het spoor moeten worden geprojecteerd op de nieuwe spoorassen, denk na over de richtingen van spoortakken, en atmeasures van objecten.
  ![image](https://github.com/Sweco-NL/RailHackaton2023/assets/65706549/0d7e0a23-d96d-4d41-8cfc-56aec843ad49)
 
 Figuur 4 - Casus 2
