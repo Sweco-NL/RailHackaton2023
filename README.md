@@ -25,7 +25,7 @@ Figuur 2- Casus 1-A,B: schematische weergave van input en output bestanden.
 Casus 1B
 Het verschil tussen casus 1A en 1B is dat bij 1B niet alleen de z-ligging is gewijzigd maar ook de x,y-ligging. Zorg dat je alle drie de richtingen correct meenemeent naar new2. De schematische weergave is weergegeven in Figuur 1.
 Casus 1C
-Tot nu toe hebben hoefde er alleen maar gekeken worden naar de spoorligging. Echter, liggen er buiten allemaal objecten naast het spoor. Deze moeten ook worden meegenomen bij een integratie. Omdat er een wijziging zit in de ligging van het spoor moet ook de ligging van de objecten worden aangepast. Voor deze opdracht gaan we ervanuit dat de relatieve positie goed is, en dat de coordinaten worden aangepast. Als de spoortak van richting verandert zul je mogelijk nog meer aanpassingen moeten doen. In dat geval moet ook de railconnectioninfo worden aangepast, zoals de AtMeasure en de Direction.
+Tot nu toe hebben hoefde er alleen maar gekeken worden naar de spoorligging. Echter, liggen er buiten allemaal objecten naast het spoor. Deze moeten ook worden meegenomen bij een integratie. Als de spoortak van richting verandert zul je mogelijk aanpassingen moeten doen. In dat geval moet de railconnectioninfo worden aangepast, zoals de AtMeasure en de Direction.
  
 ![image](https://github.com/Sweco-NL/RailHackaton2023/assets/65706549/939e1b90-fbd0-402c-a997-c3bfeb5910b7)
 
