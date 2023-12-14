@@ -1398,7 +1398,7 @@
               <Location>
                 <GeographicLocation dataAcquisitionMethod="Constructed">
                   <gml:LineString srsName="EPSG:28992">
-                    <gml:coordinates>462.923462,0,0 558.607875,0,0 573.057465,0,-0.104400770997035 573.057465,0,-0.104400770997037 573.828767,0,-0.115546936538356 573.828767,0,-0.115546936538356 592.793707,0.089919,-0.389586639717041 607.205212,0.278516,-0.494015345837774 611.288353,0.350836,-0.494165706672201 611.288354,0.350836,-0.4941657066723 639.343057,0.679559,-0.495198732493054 639.343057,0.679559,-0.495198732493738 675.85459,0.66081,-0.496543057333351 712.363941,0.261184,-0.497887382172964 712.363941,0.261184,-0.497887382174744 728.524081,0.065297,-0.498482427901648 744.685277,0,-0.499077473628552 744.685277,0,-0.49907747362934 762.02616,0,-0.499715947817434 762.02616,0,-0.499715947817434 777.454894,0,-0.381254094974226 794.526223,0,-0.11846253066302 809.918137,0,0 837.371411,0,0</gml:coordinates>
+                    <gml:coordinates>462.923462,0,0 541.667245,0,0 558.331598,0,-0.138859960400036 571.668402,0,-0.361140039599964 588.332755,0,-0.5 741.667245,0,-0.5 758.331598,0,-0.361140039599964 771.668402,0,-0.138859960400036 788.332755,0,0 837.371411,0,0</gml:coordinates>
                   </gml:LineString>
                 </GeographicLocation>
               </Location>
@@ -1541,7 +1541,7 @@
       <Groupings />
       <Extensions />
     </InitialSituation>
-    <NewSituation referenceDate="2023-12-08T17:38:46.3675151+01:00">
+      <NewSituation referenceDate="2023-12-08T17:38:46.3675151+01:00">
       <RailInfrastructure xmlns="http://www.prorail.nl/IMSpoor">
         <RailTopology>
           <MicroNodes>
@@ -1599,7 +1599,7 @@
             </MicroNode>
           </MicroNodes>
           <MicroLinks>
-            <MicroLink implementationObjectRef="6d423ba8-6a2f-49e7-9d31-42f6092f38f0">
+            <MicroLink implementationObjectRef="bc9f2332-f480-43ca-9cef-d6b5f5d4492b">
               <FromMicroNode nodeRef="f292b4b4-52c5-4989-9f7f-b9b36654ac35" portIndex="2" />
               <ToMicroNode nodeRef="a33d772f-5b3a-46c2-9865-84eac9dc1486" portIndex="0" />
             </MicroLink>
@@ -1627,7 +1627,7 @@
               <FromMicroNode nodeRef="a33d772f-5b3a-46c2-9865-84eac9dc1486" portIndex="1" />
               <ToMicroNode nodeRef="6ba5e21e-4bb2-457d-b347-2c145a4bc59b" portIndex="1" />
             </MicroLink>
-            <MicroLink implementationObjectRef="50fbaf4f-4597-4883-919c-671961e013ec">
+            <MicroLink implementationObjectRef="d320c990-4e03-4777-bd6e-c790fb387e33">
               <FromMicroNode nodeRef="34ece0aa-e0e0-4048-92ae-7835b39bec49" portIndex="0" />
               <ToMicroNode nodeRef="6ba5e21e-4bb2-457d-b347-2c145a4bc59b" portIndex="2" />
             </MicroLink>
@@ -2397,7 +2397,7 @@
             </BufferStop>
           </Junctions>
           <Tracks>
-            <Track puic="46a8f1bd-8cb7-4fb4-a2b8-3ae89f18b9e3" name="9079R">
+            <Track puic="c8dac22a-110c-4a7d-a240-381480a87e3a" name="9079R">
               <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="ProvisionalDesign" isInService="True" />
               <Location>
                 <GeographicLocation dataAcquisitionMethod="Design">
@@ -2506,12 +2506,12 @@
                 </HorizontalStraightPath>
               </AlignmentData>
             </Track>
-            <Track puic="585eb100-19c7-4e8e-bf23-29de1d41983f" name="9081V">
+            <Track puic="ade9b6d7-eddf-43db-adbd-dbe0587b73e7" name="9081V">
               <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="ProvisionalDesign" isInService="True" />
               <Location>
                 <GeographicLocation dataAcquisitionMethod="Design">
                   <gml:LineString srsName="EPSG:28992">
-                    <gml:coordinates>128.051135,0,0 424.596162,0,0 427.171162,0,0 428.396162,0,0 455.761423,0,0 462.923462,0,0 558.607875,0,0 573.057465,0,-0.104400770997035 573.057465,0,-0.104400770997037 573.828767,0,-0.115546936538356 573.828767,0,-0.115546936538356 592.793707,0.089919,-0.389586639717041 607.205212,0.278516,-0.494015345837774 611.288353,0.350836,-0.494165706672201 611.288354,0.350836,-0.4941657066723 639.343057,0.679559,-0.495198732493054 639.343057,0.679559,-0.495198732493738 675.85459,0.66081,-0.496543057333351 712.363941,0.261184,-0.497887382172964 712.363941,0.261184,-0.497887382174744 728.524081,0.065297,-0.498482427901648 744.685277,0,-0.499077473628552 744.685277,0,-0.49907747362934 762.02616,0,-0.499715947817434 762.02616,0,-0.499715947817434 777.454894,0,-0.381254094974226 794.526223,0,-0.11846253066302 809.918137,0,0 837.371411,0,0</gml:coordinates>
+                    <gml:coordinates>128.051135,0,0 424.596162,0,0 427.171162,0,0 428.396162,0,0 455.761423,0,0 462.923462,0,0 541.667245,0,0 558.331598,0,-0.138859960400036 571.668402,0,-0.361140039599964 588.332755,0,-0.5 741.667245,0,-0.5 758.331598,0,-0.361140039599964 771.668402,0,-0.138859960400036 788.332755,0,0 837.371411,0,0</gml:coordinates>
                   </gml:LineString>
                 </GeographicLocation>
                 <KmRibbonLocation>
@@ -2521,7 +2521,7 @@
             </Track>
           </Tracks>
           <RailConnections>
-            <RailConnection puic="6d423ba8-6a2f-49e7-9d31-42f6092f38f0" name="9079R" trackRef="46a8f1bd-8cb7-4fb4-a2b8-3ae89f18b9e3" voltageClass="Unknown" isElectrified="Unknown" hasInterlocking="Unknown" isSafetyTrack="False" trainType="Unknown">
+            <RailConnection puic="bc9f2332-f480-43ca-9cef-d6b5f5d4492b" name="9079R" trackRef="c8dac22a-110c-4a7d-a240-381480a87e3a" voltageClass="Unknown" isElectrified="Unknown" hasInterlocking="Unknown" isSafetyTrack="False" trainType="Unknown">
               <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="ProvisionalDesign" isInService="True" />
               <PassageRefs>a7988ec7-63ba-4bf0-b7c8-746e012f4a18 a9d5288c-08f6-4d63-aeec-1f73e946e272</PassageRefs>
             </RailConnection>
@@ -2549,7 +2549,7 @@
               <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="FinalDesign" isInService="True" />
               <PassageRefs>a78a0ac3-a075-49a8-a461-25a5d591ed2a b16d5caa-0e4b-4c1d-9036-93167fdde2ce</PassageRefs>
             </RailConnection>
-            <RailConnection puic="50fbaf4f-4597-4883-919c-671961e013ec" name="9081V" trackRef="585eb100-19c7-4e8e-bf23-29de1d41983f" voltageClass="Unknown" isElectrified="Unknown" hasInterlocking="Unknown" isSafetyTrack="False" trainType="Unknown">
+            <RailConnection puic="d320c990-4e03-4777-bd6e-c790fb387e33" name="9081V" trackRef="ade9b6d7-eddf-43db-adbd-dbe0587b73e7" voltageClass="Unknown" isElectrified="Unknown" hasInterlocking="Unknown" isSafetyTrack="False" trainType="Unknown">
               <Metadata originType="Unknown" source="RHDHV" lifeCycleStatus="ProvisionalDesign" isInService="True" />
               <PassageRefs>e9acd229-83cd-48d8-9e75-329979f4d8f5 c2a88de4-5fea-46b7-b892-ad0b24311840</PassageRefs>
             </RailConnection>
@@ -2635,11 +2635,11 @@
           <OverheadLineConnectionPoints />
         </RailwayElectrification>
       </Extensions>
-      <Remarks xmlns="http://www.prorail.nl/IMSpoor">Created by the IMX API on 12/8/2023 6:15:48 PM</Remarks>
+      <Remarks xmlns="http://www.prorail.nl/IMSpoor">Created by the IMX API on 12/8/2023 6:06:55 PM</Remarks>
     </NewSituation>
     <ProjectMetadata projectType="Unknown" xmlns="http://www.prorail.nl/IMSpoor" />
     <SituationChanges>
-      <Created>46a8f1bd-8cb7-4fb4-a2b8-3ae89f18b9e3 6d423ba8-6a2f-49e7-9d31-42f6092f38f0 585eb100-19c7-4e8e-bf23-29de1d41983f 50fbaf4f-4597-4883-919c-671961e013ec</Created>
+      <Created>c8dac22a-110c-4a7d-a240-381480a87e3a bc9f2332-f480-43ca-9cef-d6b5f5d4492b ade9b6d7-eddf-43db-adbd-dbe0587b73e7 d320c990-4e03-4777-bd6e-c790fb387e33</Created>
       <Updated>a7988ec7-63ba-4bf0-b7c8-746e012f4a18 3a0b5c59-0bf3-4d8c-859b-66e3cd5cc661 a78a0ac3-a075-49a8-a461-25a5d591ed2a 42944c82-3669-4bc7-b85b-e10c06b0f54f c2a88de4-5fea-46b7-b892-ad0b24311840 b16d5caa-0e4b-4c1d-9036-93167fdde2ce 904caa7f-d25c-439b-8fec-02531980529a a9d5288c-08f6-4d63-aeec-1f73e946e272 e174ca04-85dc-4d00-acd3-e5a055181b2b e9acd229-83cd-48d8-9e75-329979f4d8f5 46eb45ba-da94-43de-b484-4da31967be3c 707201f6-852c-4f99-83a0-0b86346bccdd d200f1bd-bd1d-47be-95b6-78e20731aba4 6d12eed5-624c-4c75-ab3e-1e5c719d7df0 e3698cc9-febf-4b46-8dec-e12109ddddda cd9e8a2b-d012-4af0-a4c4-fb3889219844</Updated>
       <Deleted>1cf87362-1557-4d90-a1fd-2b666b81cf6a b7be5706-1e06-4204-a8fd-15423f742dd8 9f797ba3-f5f9-4a25-85f0-7f0d6730f296 c00d5e86-a45f-4d88-b1e1-026c95b69d30 10eb1a48-6f6b-4e39-aa1b-57d16bfaf8d9 ee7d8565-5853-429d-9854-78a84fab171f 03863d64-6976-40a2-9092-244af7b002a5 0b9661d9-5234-4e43-a331-807304a4290e 91cc7951-e1bb-47ef-966a-f9ed245fc61c 04d7ad63-c72b-4424-96d6-26bf50aba389 aaacf039-ab76-420e-b297-941db3d36c9d 6e86b36f-d42b-4277-909e-64c782b3fd95 393808e5-44bf-4184-b8e8-8aab9fc493f1 2af1254b-09b6-4124-bd20-72b916d5d31e 90df93af-b2e4-4d96-9696-f5e2a9bf59ba 56723671-442e-4314-b797-2b0cc46758fe ceac3d26-95e8-4779-ae62-d4539408a2d2 c58b6cf1-f886-4aec-9c87-7e286f51538c 72da39b0-39e2-4f66-9a00-ab9471c74c60 b7a04a5b-8a2a-428e-a8ab-86423a96d6fa 1a046ddd-404c-454b-88a6-da8d3e518121 12cf6393-5a76-4ff6-9d9a-5e5faa335629 a9b24f36-59f4-43b2-90e6-250069ec3699 160f4931-d6c6-4c1c-ad77-8e9532c3268e 5c30f048-8367-4c14-89d0-0c0c7712bc63 a929dba7-c5a0-4356-8b8a-c516e474449f 46ef7f07-45a7-4d2e-8713-46a597e37cb5 657bfa58-1572-4758-b4a7-288bf73c6375 7296a52d-76cd-4a30-ba25-903a2a3479fd 66a9d51c-ebc6-481b-9564-29de4bd8c0b0 0af1419b-884f-4382-b55f-cb470198f8f6 a8935765-3f45-4562-8438-be24f675521d 9c409430-b048-4338-9450-7b3532e33ae1 8cc26248-871a-46e4-9896-5f09db7cb407 40cf319a-0916-47c6-9ce4-fbf1cfe129a5 8b0ff06b-5f32-4aa7-898b-4053d17b7303 ca2214b4-85ca-4bc9-9920-3760eb1f7932 6da4504c-525c-4ea9-ba29-ff0e2a710e85 3a28eb4a-43ed-4c00-8265-c0f57ba217e1 7417cb26-7583-457d-a434-957066adc9f1 3d8e909e-63a4-4661-a950-0184258adc2a 707f1e11-cbda-459c-913a-d4ad3e804da9 0bd4d492-8d87-4d54-a641-f4c5908c7384 32cd004c-11da-43d7-bc19-6dea9447db86 cb380ce4-2e68-4a1b-b774-1979339a255e ab2e8472-60ff-4e62-9870-9d89a7d59e71 c4606dbc-8a44-4c0e-b35d-dd20241de616 2aa889d0-27ac-46ee-a27e-451a25246a40 2dfb9ed5-cecd-4f01-aa02-3a3b616f521f 95fd5f0a-8d61-4217-94a3-5f8e03bc80a5 4703168d-6e98-4921-8c36-4471e992e1b5 d5e2d222-fe19-4ad9-bc1f-8f0cf5c77258 3755ee30-2395-4a0e-bca4-3b58ee04077e 6e220923-3043-4a2c-ac79-25406e91513f 89ba4f07-cb8e-4e0e-a04b-a8d202cb8ce2 d54a0bbc-e68a-48b0-81cf-1a2e59e651aa ed712bec-b827-4171-86df-3cdf0a12895b c4f5181f-45fe-4869-8727-0f3264e2aa33 1bd900fd-1eb0-44f0-95ec-7fe04ac912c1 f91c9a5a-6521-4a10-8c15-22b827be836e f574e343-3b62-45c5-a8bc-c7b233ee4f4f 30268ecb-f3db-455d-aa87-4fbb2df9f446 be2d2050-3b3f-48fd-a0f5-4a6628ad55b4 81b90f65-3d8b-4c3a-8859-cb162b3a2c19 35884ad3-6eec-4355-a426-a5f76d52b2a1 0ebe8413-5f81-4709-8582-9f34d96c914c bbbd4431-4b2f-4413-8256-a43ee6cacfc8 f081fd85-afa5-48d1-a840-f3dfc18aca38 869c9ed9-ddec-4d68-9cba-4f79ccd202fe 9c52d87c-7cba-489f-a026-2b5fa04b558d 74f1a2ce-cfe4-48af-b8a0-20681cfce827 17828a51-f070-480b-ba90-047133c02a94 b2c1f078-e8a5-4198-a916-76d424517521 3f261d5e-1f84-4bb9-9030-6cb9184993dc 82daad0d-af72-4a78-b018-ee404f34d236 5171136a-b033-4ede-99cd-ff50abaa7fbe 9a71ece0-986e-40bb-a631-e490f8a8a2b6 c7198897-1551-438e-9f85-ddc5be47cf21 910ff357-8274-4ef9-95d0-c1ca44e27617 d0f1d1b2-47da-4a0c-8744-c0ed6e64fde6 f59154b9-9502-41ce-ad4d-3bbb3adf6c47 837ef57c-c1a3-4af8-a8e9-5748f1fe905e fb386c3b-7420-41d1-abc8-96b86c570601</Deleted>
     </SituationChanges>
