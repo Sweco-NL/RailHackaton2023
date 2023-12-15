@@ -11,7 +11,7 @@ namespace RailHackaton2023.UnitTests
         {
             //Arrange
             var baseDir = Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location);
-            var testFile = Path.Combine(baseDir, "TestFiles", "IMSpoor-5.0.0-actual.xml");
+            var testFile = Path.Combine(baseDir, "TestFiles", "Case 1", "Init1\\init1.xml");
             //Assert: Check if the created file exists in the deployment directory
             Assert.IsTrue(File.Exists(testFile), "deployment failed: " + testFile + " did not get deployed");
             //Act
