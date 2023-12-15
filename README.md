@@ -13,7 +13,8 @@ De opdracht van vandaag is gebasseerd op een situatie die voorkwam bij EHL. In d
 Het doel van vandaag is om met een methode te komen zodat dit in het vervolg niet handmatig zou hoeven. Er komen een hoop verschillende aspecten kijken bij het integreren van alignementen, daarom hebben we dit opgesplitst in vier verschillende (sub)casussen. Voor elke casus is een init1, init2, en new1 bestand gemaakt wat jullie als input kunnen gebruiken. Daarnaast heeft elke casus een new2 bestand. Dit kunnen jullie gebruiken om jullie uitkomst te testen.
 ## Casussen
 De eerste casus hebben we opgesplitst in drie subcasussen (A, B, C) waarbij er telkens een element bij komt. In alle drie de casussen is het geval dat init1 een recht stuk spoor is met daarop drie wissels. Jij hebt het middelste wissel verwijderd. ProRail heeft echter iets gewijzigd aan het stuk spoor tussen wissel 9083 en wissel 9089. Nu aan jou de taak om de wijzigingen met elkaar te integreren zodanig dat je beide wijzigingen in new2 hebt. In Figuur 1 is een weergave van init1 te zien voor de casussen 1A en 1B.
- ![image](https://github.com/Sweco-NL/RailHackaton2023/assets/65706549/8013be2c-64fa-48cb-99da-9f82736729fc)
+![image](https://github.com/Sweco-NL/RailHackaton2023/assets/65706549/24d15c75-954a-4a03-b19a-1c22cc244722)
+
 
 Figuur 1- Weergave van init 1 voor casus 1A en 1B
 ### Casus 1A
